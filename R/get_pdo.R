@@ -1,5 +1,5 @@
 # add PDO
-pdo <- read.csv("data/enviro_data/PDO.csv")
+pdo <- read.csv("data/PDO.csv") # data from https://www.ncei.noaa.gov/pub/data/cmb/ersst/v5/index/ersst.v5.pdo.dat
 
 month_dat <- model_df[,c(1,15,25,26)] %>%
   mutate(month_end = lubridate::month(end),
