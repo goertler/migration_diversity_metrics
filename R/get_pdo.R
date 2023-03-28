@@ -88,4 +88,4 @@ pdo_all <- rbind(combo_1_dat[,c(2,3,10)], combo_2_dat[,c(2,3,13)], combo_3_dat[,
 
 model_df_pdo <- merge(sd_meta[,-c(2,7,8)], pdo_all[,c(1,3)], by = "FishID", all.x = TRUE)
 
-write.csv(model_df_pdo, "results/model_dat.csv")
+write.csv(model_df_pdo, "results/model_dat.csv",  row.names=FALSE)
