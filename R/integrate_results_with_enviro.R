@@ -1,8 +1,17 @@
-source(SD_comb.R)
+# data
+# dates
+source(integrate_results.R)
+# enviro data
+stage <- read.csv("data/stage_dat.csv")
+temperature <- read.csv("data/temperature_dat.csv")
+flow <- read.csv("data/flow_dat.csv")
+
 head(sd_meta)
 str(sd_meta)
+
 sd_meta$rel <- as.Date(sd_meta$rel)
 sd_meta$end <- as.Date(sd_meta$end)
+
 length(unique(sd_meta$FishID))
 
 keeper_dat <- data.frame(FishID = NA, date_min = as.Date("1900-01-01"),  date_max = as.Date("1900-01-01"), temp_mean = NA, temp_sd = NA, stage_mean = NA, stage_sd = NA)
