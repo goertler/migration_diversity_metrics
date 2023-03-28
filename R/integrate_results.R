@@ -37,9 +37,6 @@ FishID_key <- read.csv("data/FishID_key.csv")
 sd_meta <- merge(FishID_key, sd_all, by = "FishID", all = TRUE)
 head(sd_meta) #1814
 
-sd_meta$check_year <- duplicated(sd_meta)
-sd_check <- subset(sd_meta, check_year == FALSE)
-
 sum(is.na(sd_meta) == TRUE) # 24
 summary(is.na(sd_meta) == TRUE) #8 fish
 check <- subset(sd_meta, is.na(SD) == TRUE) # JSAT fish from 2016 & 2017

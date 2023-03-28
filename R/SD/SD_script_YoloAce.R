@@ -48,11 +48,10 @@ head(yoloace_dpd_matrix_13)
 # make SD for each fish
 spread_yoloace_12 <- transform(yoloace_dpd_matrix_12, SD = apply(yoloace_dpd_matrix_12[c(2:ncol(yoloace_dpd_matrix_12))], 1, sd, na.rm = TRUE))
 
-SD <- apply(yoloace_dpd_matrix_12[c(2:ncol(yoloace_dpd_matrix_12))], 1, sd, na.rm = TRUE)
 rel <- names(yoloace_dpd_matrix_12[-1])[max.col(!is.na(yoloace_dpd_matrix_12[-1]), "first")]
 end <- names(yoloace_dpd_matrix_12[-ncol(yoloace_dpd_matrix_12)])[max.col(!is.na(yoloace_dpd_matrix_12[-ncol(yoloace_dpd_matrix_12)]), "last")]
 
-sd_yoloace_12 <- data.frame(spread_yoloace_12[,c(1,19)], rel, end)
+sd_yoloace_12 <- data.frame(spread_yoloace_12[,c(1,20)], rel, end) # was 19, not sure where the extra day is coming from
 
 head(sd_yoloace_12)
 str(sd_yoloace_12)
@@ -62,7 +61,7 @@ spread_yoloace_13 <- transform(yoloace_dpd_matrix_13, SD = apply(yoloace_dpd_mat
 rel <- names(yoloace_dpd_matrix_13[-1])[max.col(!is.na(yoloace_dpd_matrix_13[-1]), "first")]
 end <- names(yoloace_dpd_matrix_13[-ncol(yoloace_dpd_matrix_13)])[max.col(!is.na(yoloace_dpd_matrix_13[-ncol(yoloace_dpd_matrix_13)]), "last")]
 
-sd_yoloace_13 <- data.frame(spread_yoloace_13[,c(1,28)], rel, end)
+sd_yoloace_13 <- data.frame(spread_yoloace_13[,c(1,29)], rel, end) # was 28, not sure where the extra day is coming from
 
 head(sd_yoloace_13)
 str(sd_yoloace_13)
