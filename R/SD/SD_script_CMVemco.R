@@ -1,16 +1,18 @@
-source("R/01_setup.R")
+# estimate variation in travel time (sd)
+
+# library
 library(reshape2)
 library(dplyr)
 library(tidyr)
 
 # data
-cmvemco_dpd <- read.csv("results/CMVemco/cmvemco_dpd_refactor.csv")
+cmvemco_dpd <- read.csv("data/CMVemco/cmvemco_dpd_refactor.csv")
 length(unique(cmvemco_dpd$FishID))#296
 cmvemco_dpd$date <- as.Date(cmvemco_dpd$date_time)
 str(cmvemco_dpd)
 length(unique(cmvemco_dpd$date)) #419
 
-key <- read.csv("data/common_data/FishID_key.csv")
+key <- read.csv("data/FishID_key.csv")
 # 2007 2008 2009 2010 2011
 vemco_07 <- subset(key, TagType == "Vemco" & Year == 2007)
 vemco_08 <- subset(key, TagType == "Vemco" & Year == 2008)
