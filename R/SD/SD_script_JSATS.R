@@ -1,45 +1,18 @@
-source("R/01_setup.R")
+# estimate variation in travel time (sd)
+
+# library
 library(reshape2)
 library(dplyr)
 library(tidyr)
 
-# estimate variation in travel time (sd)
-# look at results data -- missing 4 years
-#FishID_key <- read_csv("data/common_data/FishID_key.csv")
-#FishID_key %>%
-#  group_by(Year, TagType) %>%
-#  summarise(total = length(unique(FishID))) #793 (2013-2017)
-# fixed with adding "BeniciaW" to line 46 in clean_JSATS_dets.R
-# now #843, need to investigate
-
-# make it reproducible
-
 # load data from results
-#file_names <- list.files(path = "results/JSATS",recursive = TRUE)
-# need to move into folder to run the rest of the code
-#setwd("C:/Users/pgoertler/Desktop/MJ's Repo/merged/acoustic-telemetry-synthesis/results/JSATS")
-
-#for(i in file_names){
-#  file <- read.csv(i)
-#  }
-
-#years <- substr(file_names, 1, 4)
-
-#file <- lapply(file_names,read.csv)
-#names(file) <- substr(file_names, 1, 4)
-#str(file)
-
-#list.names <- substr(file_names, 1, 4)
-#output <- vector("list", length(list.names))
-#names(output) <- list.names
-
-jsats_dpd <- read.csv("results/JSATS/jsats_dpd_refactor.csv")
+jsats_dpd <- read.csv("data/JSATS/jsats_dpd_refactor.csv")
 length(unique(jsats_dpd$FishID))#785
 jsats_dpd$date <- as.Date(jsats_dpd$date_time)
 str(jsats_dpd)
 length(unique(jsats_dpd$date))
 
-key <- read.csv("data/common_data/FishID_key.csv")
+key <- read.csv("data/FishID_key.csv")
 jsats_13 <- subset(key, TagType == "JSATS" & Year == 2013)
 jsats_14 <- subset(key, TagType == "JSATS" & Year == 2014)
 jsats_15 <- subset(key, TagType == "JSATS" & Year == 2015)
@@ -56,27 +29,6 @@ jsats_16_dpd <- merge(jsats_dpd, jsats_16[,c(2,10)], by = "FishID")
 length(unique(jsats_16_dpd$FishID))#145 (was expecting 149)
 jsats_17_dpd <- merge(jsats_dpd, jsats_17[,c(2,10)], by = "FishID")
 length(unique(jsats_17_dpd$FishID))#438 (was expecting 442)
-
-#dat_goods <- data.frame(FishID = NA, SD = NA, Year = NA, rel = NA, end = NA)
-
-# loop
-#for (i in substr(file_names, 1, 4)){
-#  temp_df <- data.frame(file[[i]])
-#  temp_df2 <- transform(temp_df, SD=apply(temp_df[c(2:ncol(temp_df))],1, sd, na.rm = TRUE))
-#  temp_df3 <- temp_df2[, c("FishID", "SD")]
-#  temp_df3$Year <- i
-#  temp_df3$Col_first <- names(temp_df2[-1])[max.col(!is.na(temp_df2[-1]), "first")]
-#  temp_df3$rel <- gsub("X","", temp_df3$Col_first)
-#  temp_df3$Col_last <- names(temp_df2[-ncol(temp_df2)])[max.col(!is.na(temp_df2[-ncol(temp_df2)]), "last")]
-#  temp_df3$end <- gsub("X","", temp_df3$Col_last)
-#  dat_goods <- rbind(dat_goods, temp_df3[,-c(4,6)])
-#}
-
-
-#dat_goods <- dat_goods[-1,]
-#head(dat_goods)
-#str(dat_goods)
-#unique(dat_goods$Year)
 
 jsats_13_summary <- jsats_13_dpd[,c(1,4,5)] %>%
   group_by(FishID) %>%
@@ -160,13 +112,6 @@ write.csv(sd_jsats_14, "results/SD/JSATS_14.csv")
 write.csv(sd_jsats_15, "results/SD/JSATS_15.csv")
 write.csv(sd_jsats_16, "results/SD/JSATS_16.csv")
 write.csv(sd_jsats_17, "results/SD/JSATS_17.csv")
-
-# look into additional 50 fish
-#setdiff(dat_goods$FishID, FishID_key$FishID)
-
-#check <- subset(all_detects, FishID == "WR2017-066")
-#unique(check$GEN)
-# these are fish that have no travel time because of Benicia combination rule
 
 # still need to check which fish were dropped from 2016 and 2017
 ID_16 <- unique(jsats_16$FishID)

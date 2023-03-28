@@ -6,7 +6,7 @@ library(dplyr)
 library(tidyr)
 
 # load data from results (only one file this time)
-ybus_dpd <- read.csv("results/SD/YBUS/2016_ybus_dpd_refactor.csv") # latest data 6/28/22
+ybus_dpd <- read.csv("data/YBUS/2016_ybus_dpd_refactor.csv") # latest data 6/28/22
 head(ybus_dpd)
 
 # make matrix
