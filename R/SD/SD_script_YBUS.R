@@ -1,22 +1,18 @@
-source("R/01_setup.R")
+# estimate variation in travel time (sd)
+
+# library
 library(reshape2)
 library(dplyr)
 library(tidyr)
 
-# estimate variation in travel time (sd)
-
 # load data from results (only one file this time)
-ybus_dpd <- read.csv("results/YBUS/2016_ybus_dpd_refactor.csv") # latest data 6/28/22
+ybus_dpd <- read.csv("results/SD/YBUS/2016_ybus_dpd_refactor.csv") # latest data 6/28/22
 head(ybus_dpd)
 
 # make matrix
 ybus_dpd$date <- as.Date(ybus_dpd$date_time)
 str(ybus_dpd)
 length(unique(ybus_dpd$date))
-
-#summary_ybus_dpd <- ybus_dpd %>%
-#  group_by(FishID, date) %>%
-#  summarise(dist = sum(prop_dist))
 
 summary_ybus_dpd <- ybus_dpd %>%
   group_by(FishID) %>%
@@ -47,6 +43,6 @@ str(sd_dat)
 sd_dat$Year <- "2016"
 length(unique(sd_dat$FishID))#662
 
-write.csv(sd_dat, "results/SD/YBUS.csv")
+write.csv(sd_dat, "results/SD/YBUS_16.csv")
 
 
