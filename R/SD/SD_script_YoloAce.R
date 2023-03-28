@@ -6,7 +6,7 @@ library(dplyr)
 library(tidyr)
 
 # load data from results
-yoloace_dpd <- read.csv("results/SD/YoloAce/yoloace_dpd_refactored.csv") # 7/29/22
+yoloace_dpd <- read.csv("data/YoloAce/yoloace_dpd_refactored.csv") # 7/29/22
 
 # make matrix
 yoloace_dpd$date <- as.Date(yoloace_dpd$date_time)
@@ -48,6 +48,7 @@ head(yoloace_dpd_matrix_13)
 # make SD for each fish
 spread_yoloace_12 <- transform(yoloace_dpd_matrix_12, SD = apply(yoloace_dpd_matrix_12[c(2:ncol(yoloace_dpd_matrix_12))], 1, sd, na.rm = TRUE))
 
+SD <- apply(yoloace_dpd_matrix_12[c(2:ncol(yoloace_dpd_matrix_12))], 1, sd, na.rm = TRUE)
 rel <- names(yoloace_dpd_matrix_12[-1])[max.col(!is.na(yoloace_dpd_matrix_12[-1]), "first")]
 end <- names(yoloace_dpd_matrix_12[-ncol(yoloace_dpd_matrix_12)])[max.col(!is.na(yoloace_dpd_matrix_12[-ncol(yoloace_dpd_matrix_12)]), "last")]
 
@@ -66,11 +67,8 @@ sd_yoloace_13 <- data.frame(spread_yoloace_13[,c(1,28)], rel, end)
 head(sd_yoloace_13)
 str(sd_yoloace_13)
 
-
-sd_yoloace_12$Year <- "2012"
 length(unique(sd_yoloace_12$FishID))#30
 
-sd_yoloace_13$Year <- "2013"
 length(unique(sd_yoloace_13$FishID))#33
 
 write.csv(sd_yoloace_12, "results/SD/YoloAce_12.csv")

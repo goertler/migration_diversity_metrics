@@ -40,7 +40,6 @@ sd_dat$rel <-  as.Date(gsub('\\.', '-', sd_dat$rel))
 sd_dat$end <-  as.Date(gsub('\\.', '-', sd_dat$end))
 
 str(sd_dat)
-sd_dat$Year <- "2016"
 length(unique(sd_dat$FishID))#662
 
 write.csv(sd_dat, "results/SD/YBUS_16.csv")
