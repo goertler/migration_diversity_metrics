@@ -7,7 +7,7 @@ devtools::install_github("ryanpeek/wateRshedTools")
 library(wateRshedTools)
 
 # stage at Rio Vista
-stage <- get_cdec("RVB", 1, "H", "2007-02-15", "2017-06-18")
+stage <- get_cdec("RVB", 1, "H", "2007-01-31", "2017-06-18")
 
 head(stage)
 str(stage)
