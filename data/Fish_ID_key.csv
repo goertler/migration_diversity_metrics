@@ -1,0 +1,1815 @@
+FishID,TagID,travel_time,Release_Group_SAIL,Year,Route,TagType,tt.grp,River_temp
+1.MJ,2051,11.77087963,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+1.YBUS,36186,6.547847222,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+10.MJ,2067,6.688009259,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+10.YBUS,36367,17.55146991,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+100.YBUS,38784,6.918587963,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+101.YBUS,38788,12.98334491,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+102.YBUS,38789,4.662314815,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+103.YBUS,38791,4.165949074,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+104.YBUS,38792,4.065752315,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+105.YBUS,38793,6.704340278,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+106.YBUS,38795,4.644513889,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+107.YBUS,38796,4.144189815,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+108.YBUS,38798,4.119108796,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+109.YBUS,38799,8.216782407,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+11.MJ,2070,6.044340278,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+11.YBUS,36371,9.213055556,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+110.YBUS,38815,5.163761574,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+111.YBUS,38823,4.653611111,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+112.YBUS,38824,5.199918981,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+113.YBUS,38826,4.636064815,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+114.YBUS,38828,4.450613426,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.1
+115.YBUS,38829,5.984664352,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.1
+116.YBUS,38831,4.427210648,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+117.YBUS,38835,10.67515046,Middle Sacramento River,2016,CenDel,Vemco,Chips,14.1
+118.YBUS,38836,8.593622685,Middle Sacramento River,2016,CenDel,Vemco,Chips,14.1
+119.YBUS,38837,6.874826389,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+12.MJ,2075,9.773020833,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+12.YBUS,36374,7.075532407,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+120.YBUS,38841,9.018148148,Middle Sacramento River,2016,CenDel,Vemco,Chips,14.1
+121.YBUS,38848,4.443912037,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+122.YBUS,38850,3.886319444,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+123.YBUS,38852,3.887916667,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.1
+124.YBUS,38854,6.458680556,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+125.YBUS,38856,5.682407407,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+126.YBUS,38857,11.12834491,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+127.YBUS,38858,3.642777778,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+128.YBUS,38859,4.197581019,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+129.YBUS,38860,12.9690625,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+13.MJ,2076,11.78644676,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+13.YBUS,36380,6.145162037,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+130.YBUS,38861,5.240520833,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+131.YBUS,38864,5.763923611,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+132.YBUS,38867,6.455439815,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.4
+133.YBUS,38869,3.791666667,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+134.YBUS,38871,12.95642361,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+135.YBUS,38872,4.344490741,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+136.YBUS,38874,4.138229167,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+137.YBUS,38875,3.653912037,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.4
+138.YBUS,38876,8.293275463,Middle Sacramento River,2016,CenDel,Vemco,Chips,14.4
+139.YBUS,38880,9.842638889,Middle Sacramento River,2016,CenDel,Vemco,Chips,14.4
+14.MJ,2078,7.844502315,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+14.YBUS,36384,4.494976852,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11
+140.YBUS,38882,7.726782407,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+141.YBUS,38884,4.653518519,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+142.YBUS,38889,7.729930556,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.4
+143.YBUS,38890,5.738287037,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+144.YBUS,38892,4.377581019,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+145.YBUS,38899,4.937986111,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+146.YBUS,38901,8.025775463,Middle Sacramento River,2016,CenDel,Vemco,Chips,14
+147.YBUS,38903,4.061215278,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+148.YBUS,38904,2.866527778,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+149.YBUS,38905,26.21528935,Middle Sacramento River,2016,CenDel,Vemco,Chips,14
+15.MJ,2079,13.10267361,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+15.YBUS,36387,5.083483796,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11
+150.YBUS,38907,5.984131944,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14
+151.YBUS,38909,3.351747685,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+152.YBUS,38914,3.863981481,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+153.YBUS,38916,7.022152778,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+154.YBUS,38918,3.354988426,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+155.YBUS,38926,3.797303241,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+156.YBUS,38928,5.490787037,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+157.YBUS,38929,16.7962037,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+158.YBUS,38930,3.962534722,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+159.YBUS,38933,3.792581019,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+16.MJ,2080,7.550625,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+16.YBUS,36390,6.037037037,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+160.YBUS,38936,5.493668981,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+161.YBUS,38937,9.896238426,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+162.YBUS,38938,3.105,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.2
+163.YBUS,38939,3.222534722,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.2
+164.YBUS,38940,3.664293981,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+165.YBUS,38942,5.915648148,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+166.YBUS,38943,6.719050926,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+167.YBUS,38945,4.82505787,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+168.YBUS,38946,3.051770833,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+169.YBUS,38953,3.056469907,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+17.MJ,2081,6.239502315,Middle Sacramento River,2012,SacRSlough,Vemco,Chips,13.8
+17.YBUS,36393,8.149606481,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11
+170.YBUS,38956,3.799305556,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+171.YBUS,38957,6.338634259,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+172.YBUS,38958,3.885775463,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+173.YBUS,38960,3.216365741,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+174.YBUS,38963,2.7825,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+175.YBUS,38964,3.324548611,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+176.YBUS,38965,12.58975694,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+177.YBUS,38967,3.335011574,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+178.YBUS,38968,3.880416667,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+179.YBUS,38969,5.905439815,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+18.MJ,2082,6.259212963,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+18.YBUS,36394,5.564074074,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+180.YBUS,38972,2.908680556,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.2
+181.YBUS,38974,3.338055556,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+182.YBUS,38975,3.345,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+183.YBUS,38978,3.974976852,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.2
+184.YBUS,38979,3.676689815,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+185.YBUS,38980,3.21181713,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+186.YBUS,38981,3.718483796,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+187.YBUS,38982,4.699247685,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+188.YBUS,38984,3.709884259,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+189.YBUS,38985,6.385196759,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+19.MJ,2083,8.844722222,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+19.YBUS,36396,8.663310185,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+190.YBUS,38986,3.583564815,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+191.YBUS,38989,6.679212963,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+192.YBUS,38990,3.487395833,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+193.YBUS,38991,4.129930556,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.6
+194.YBUS,38992,3.530775463,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+195.YBUS,38993,3.630775463,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+196.YBUS,38994,3.49380787,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+197.YBUS,38995,3.013310185,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+198.YBUS,38996,6.187048611,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+199.YBUS,38999,5.687268519,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+2.MJ,2055,13.81670139,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+2.YBUS,36341,5.037337963,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+20.MJ,2084,5.919201389,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+20.YBUS,36397,4.963402778,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+200.YBUS,39000,3.188333333,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+201.YBUS,39001,4.138321759,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+202.YBUS,39002,5.640486111,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+203.YBUS,39003,2.988761574,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+204.YBUS,39004,4.938101852,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+205.YBUS,39005,11.86519676,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+206.YBUS,39006,5.903530093,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+207.YBUS,39008,6.217708333,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+208.YBUS,39009,3.27630787,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+209.YBUS,39010,2.889953704,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+21.MJ,2085,13.04612269,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+21.YBUS,36403,3.543344907,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+210.YBUS,39013,6.444606481,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+211.YBUS,39014,3.871238426,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+212.YBUS,39016,3.826793981,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+213.YBUS,39018,2.680219907,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.5
+214.YBUS,39020,6.698275463,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.5
+215.YBUS,39021,9.389224537,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+216.YBUS,39022,2.721446759,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.5
+217.YBUS,39024,7.324733796,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.5
+218.YBUS,39025,3.197303241,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.5
+219.YBUS,39027,11.39408565,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+22.MJ,2086,9.882534722,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+22.YBUS,36405,6.961319444,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+220.YBUS,39031,5.522696759,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+221.YBUS,39032,8.749305556,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+222.YBUS,39034,4.180960648,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+223.YBUS,39036,3.08474537,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+224.YBUS,39040,2.2503125,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+225.YBUS,39041,2.261550926,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+226.YBUS,39045,2.118321759,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+227.YBUS,39046,2.232430556,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+228.YBUS,39050,2.23525463,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+229.YBUS,39052,2.488784722,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+23.MJ,2087,14.06290509,Middle Sacramento River,2012,SacRSlough,Vemco,Chips,13.8
+23.YBUS,36409,5.535821759,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+230.YBUS,39054,3.860393519,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.6
+231.YBUS,39057,10.4918287,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.6
+232.YBUS,39059,3.272847222,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+233.YBUS,39060,4.25099537,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+234.YBUS,39061,2.751921296,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+235.YBUS,39063,5.669907407,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.5
+236.YBUS,39065,3.286261574,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.5
+237.YBUS,39067,3.87369213,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+238.YBUS,39069,9.458078704,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+239.YBUS,39070,4.304050926,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+24.MJ,2089,13.09688657,Middle Sacramento River,2012,SacRSlough,Vemco,Chips,13.8
+24.YBUS,36412,5.643981481,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+240.YBUS,39071,16.51023148,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+241.YBUS,39075,3.659259259,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+242.YBUS,39076,8.40025463,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+243.YBUS,39077,9.512372685,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+244.YBUS,39078,2.67099537,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+245.YBUS,39079,2.310914352,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+246.YBUS,39081,1.798043981,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+247.YBUS,39082,4.321157407,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+248.YBUS,39084,2.250347222,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+249.YBUS,39085,6.491261574,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+25.MJ,2098,16.15976852,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+25.YBUS,36416,5.645891204,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13
+250.YBUS,39086,1.875555556,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+251.YBUS,39087,4.596446759,Middle Sacramento River,2016,SacR,Vemco,Chips,12.9
+252.YBUS,39088,2.522858796,Middle Sacramento River,2016,SacR,Vemco,Chips,12.9
+253.YBUS,39090,2.544386574,Middle Sacramento River,2016,SacR,Vemco,Chips,12.9
+254.YBUS,39092,2.518194444,Middle Sacramento River,2016,SacR,Vemco,Chips,12.9
+255.YBUS,39095,4.343263889,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+256.YBUS,39096,5.282199074,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+257.YBUS,39097,3.777777778,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13
+258.YBUS,39098,3.254363426,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+259.YBUS,39099,2.907303241,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+26.MJ,2102,8.91525463,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+26.YBUS,36420,16.5862037,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+260.YBUS,39100,3.371655093,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+261.YBUS,39102,13.39864583,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+262.YBUS,39103,7.509733796,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+263.YBUS,39107,3.014247685,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,12.9
+264.YBUS,39108,3.111793981,Middle Sacramento River,2016,SacR,Vemco,Chips,12.9
+265.YBUS,39110,2.5453125,Middle Sacramento River,2016,SacR,Vemco,Chips,12.9
+266.YBUS,39111,2.527673611,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,12.9
+267.YBUS,39112,3.767581019,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+268.YBUS,39113,2.787060185,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13
+269.YBUS,39114,3.225902778,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+27.MJ,2103,6.711446759,Middle Sacramento River,2012,SacRSlough,Vemco,Chips,13.8
+27.YBUS,36423,4.466516204,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13
+270.YBUS,39115,2.729918981,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+271.YBUS,39116,2.815347222,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+272.YBUS,39117,5.756747685,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+273.YBUS,39120,11.57913194,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+274.YBUS,39123,4.362881944,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+275.YBUS,39124,3.31869213,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+276.YBUS,39125,3.869236111,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+277.YBUS,39126,4.365208333,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+278.YBUS,39127,2.843634259,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+279.YBUS,39128,4.011238426,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+28.MJ,2117,5.765,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+28.YBUS,36425,17.23782407,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+280.YBUS,39130,6.38931713,Middle Sacramento River,2016,CenDel,Vemco,Chips,12.5
+281.YBUS,39134,3.9503125,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+282.YBUS,39135,4.434907407,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+283.YBUS,39136,4.491516204,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+284.YBUS,39137,8.6871875,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+285.YBUS,39139,7.640439815,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+286.YBUS,39140,2.905381944,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+287.YBUS,39143,7.076967593,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+288.YBUS,39144,9.214780093,Middle Sacramento River,2016,CenDel,Vemco,Chips,13.2
+289.YBUS,39146,3.785219907,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+29.MJ,2122,16.10731481,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+29.YBUS,36433,16.73296296,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+290.YBUS,39148,3.24962963,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+291.YBUS,39152,2.090960648,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+292.YBUS,39153,2.712986111,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13
+293.YBUS,39156,2.26568287,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+294.YBUS,39157,3.733819444,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+295.YBUS,39158,2.706284722,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+296.YBUS,39160,5.810787037,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+297.YBUS,39162,8.859039352,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+298.YBUS,39163,3.237685185,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+299.YBUS,39165,2.71037037,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+3.MJ,2057,5.848368056,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+3.YBUS,36344,6.711539352,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+30.MJ,2123,6.781435185,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+30.YBUS,36444,7.842615741,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.4
+300.YBUS,39167,4.226342593,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+301.YBUS,39168,3.2934375,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+302.YBUS,39170,4.667881944,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+303.YBUS,39176,3.724386574,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+304.YBUS,39180,4.699675926,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+305.YBUS,39182,3.099826389,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+306.YBUS,39183,2.891134259,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+307.YBUS,39184,2.05662037,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+308.YBUS,39186,4.071064815,Middle Sacramento River,2016,CenDel,Vemco,Chips,13.2
+309.YBUS,39188,2.793680556,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+31.MJ,4764,19.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+31.YBUS,36447,19.86261574,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.4
+310.YBUS,39189,5.500451389,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+311.YBUS,39191,4.995648148,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+312.YBUS,39192,3.536180556,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+313.YBUS,39194,3.995844907,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+314.YBUS,39196,2.919513889,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+315.YBUS,39197,2.875729167,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+316.YBUS,39198,2.824293981,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+317.YBUS,39199,2.412002315,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+318.YBUS,39200,7.75787037,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+319.YBUS,39201,3.921782407,Middle Sacramento River,2016,CenDel,Vemco,Chips,12.5
+32.MJ,4842,12.99835648,Tidal Delta,2013,Yolo,Vemco,Chips,14.8
+32.YBUS,36448,7.96162037,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+320.YBUS,39203,1.868148148,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+321.YBUS,39205,1.933449074,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+322.YBUS,39206,1.897592593,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+323.YBUS,39207,2.371446759,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+324.YBUS,39208,5.24369213,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+325.YBUS,39209,2.191238426,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+326.YBUS,39211,2.06681713,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+327.YBUS,39214,3.135416667,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+328.YBUS,39215,2.066956019,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+329.YBUS,39216,2.74443287,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+33.MJ,4843,24.93550926,Tidal Delta,2013,Yolo,Vemco,Chips,14.8
+33.YBUS,36451,9.399733796,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+330.YBUS,39217,5.74630787,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+331.YBUS,39219,4.218703704,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+332.YBUS,39222,4.108587963,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+333.YBUS,39223,5.698611111,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+334.YBUS,39225,8.875717593,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+335.YBUS,39226,1.986979167,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+336.YBUS,39227,1.999756944,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.6
+337.YBUS,39228,2.491400463,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+338.YBUS,39229,1.982083333,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+339.YBUS,39231,1.979907407,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+34.MJ,4844,8.344560185,Tidal Delta,2013,Yolo,Vemco,Chips,14.8
+34.YBUS,36454,6.400474537,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+340.YBUS,39232,2.745532407,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.6
+341.YBUS,39233,2.026296296,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+342.YBUS,39234,6.142465278,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+343.YBUS,39236,3.460150463,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+344.YBUS,39238,4.961736111,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+345.YBUS,39239,4.502997685,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+346.YBUS,39240,8.640104167,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+347.YBUS,39242,5.442604167,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+348.YBUS,39243,4.996759259,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+349.YBUS,39244,8.208078704,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+35.MJ,4858,12.97172454,Tidal Delta,2013,Yolo,Vemco,Chips,14.8
+35.YBUS,36459,14.14799769,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+350.YBUS,39245,2.324201389,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+351.YBUS,39246,2.480462963,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+352.YBUS,39248,1.988055556,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+353.YBUS,39249,5.584305556,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+354.YBUS,39250,2.429641204,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+355.YBUS,39253,6.520300926,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+356.YBUS,39255,10.11336806,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+357.YBUS,39256,5.934907407,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+358.YBUS,39257,2.437060185,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+359.YBUS,39258,4.057615741,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+36.MJ,4861,9.859351852,Tidal Delta,2013,Yolo,Vemco,Chips,14.8
+36.YBUS,36465,16.18929398,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+360.YBUS,39259,5.500949074,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+361.YBUS,39260,8.018715278,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+362.YBUS,39261,1.823020833,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+363.YBUS,39262,2.29119213,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+364.YBUS,39263,10.57483796,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+365.YBUS,39264,1.845034722,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+366.YBUS,39265,4.417233796,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+367.YBUS,39267,1.76162037,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.5
+368.YBUS,39269,3.694131944,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+369.YBUS,39271,4.391655093,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+37.MJ,5782,24.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+37.YBUS,36467,5.897777778,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,12.1
+370.YBUS,39272,3.763414352,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+371.YBUS,39273,2.774583333,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+372.YBUS,39275,6.324814815,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+373.YBUS,39276,6.283414352,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+374.YBUS,39281,2.807696759,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+375.YBUS,39284,5.620775463,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+376.YBUS,39285,5.726342593,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+377.YBUS,39288,5.719918981,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+378.YBUS,39291,7.822696759,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+379.YBUS,39292,2.990486111,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+38.MJ,5784,15.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+38.YBUS,36474,7.513888889,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+380.YBUS,39293,2.777071759,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+381.YBUS,39294,2.896747685,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+382.YBUS,39295,3.277638889,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+383.YBUS,39298,2.843530093,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+384.YBUS,39299,5.815706019,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+385.YBUS,39303,5.344351852,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+386.YBUS,39304,6.098043981,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+387.YBUS,39305,5.009768519,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+388.YBUS,39306,4.090833333,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+389.YBUS,39310,4.909143519,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+39.MJ,5788,16.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+39.YBUS,36479,5.16224537,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+390.YBUS,39314,5.996550926,Middle Sacramento River,2016,CenDel,Vemco,Chips,14
+391.YBUS,39316,3.9209375,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14
+392.YBUS,39319,5.97974537,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+393.YBUS,39320,4.378043981,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+394.YBUS,39321,5.998865741,Middle Sacramento River,2016,CenDel,Vemco,Chips,14
+395.YBUS,39322,4.876006944,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+396.YBUS,39323,3.353888889,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+397.YBUS,39325,3.339548611,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+398.YBUS,39326,3.880752315,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+399.YBUS,39328,5.396215278,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+4.MJ,2058,12.92440972,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+4.YBUS,36345,7.19337963,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+40.MJ,5797,15.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+40.YBUS,36481,6.35900463,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.4
+400.YBUS,39329,3.305636574,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+401.YBUS,39330,5.475925926,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+402.YBUS,39331,16.32258102,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14
+403.YBUS,39332,3.936701389,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+404.YBUS,39334,5.890555556,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+405.YBUS,39335,5.437662037,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14
+406.YBUS,39336,8.038553241,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+407.YBUS,39337,5.967175926,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+408.YBUS,39338,3.355162037,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+409.YBUS,39340,3.534641204,Middle Sacramento River,2016,SacR,Vemco,Chips,14
+41.MJ,5798,14.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+41.YBUS,36482,9.566087963,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+410.YBUS,39343,6.135081019,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.4
+411.YBUS,39349,3.693043981,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+412.YBUS,39351,3.575335648,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+413.YBUS,39354,13.42457176,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+414.YBUS,39357,3.566122685,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+415.YBUS,39361,10.33873843,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+416.YBUS,39362,4.180243056,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.4
+417.YBUS,39365,8.020428241,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.4
+418.YBUS,39366,4.32,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+419.YBUS,39368,17.01335648,Middle Sacramento River,2016,SacR,Vemco,Chips,14.4
+42.MJ,5800,19.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+42.YBUS,36486,9.496168981,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+420.YBUS,39372,3.631377315,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.4
+421.YBUS,39377,4.432592593,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.1
+422.YBUS,39384,5.446423611,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+423.YBUS,39386,4.92375,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,14.1
+424.YBUS,39389,4.025763889,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+425.YBUS,39390,4.387118056,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+426.YBUS,39401,8.56349537,Middle Sacramento River,2016,CenDel,Vemco,Chips,14.1
+427.YBUS,39402,4.929270833,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+428.YBUS,39403,3.918912037,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+429.YBUS,39406,6.40275463,Middle Sacramento River,2016,CenDel,Vemco,Chips,14.1
+43.MJ,5808,21.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+43.YBUS,36490,2.655810185,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+430.YBUS,39407,5.987997685,Middle Sacramento River,2016,SacR,Vemco,Chips,14.1
+431.YBUS,39409,4.111215278,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+432.YBUS,39411,8.817974537,Middle Sacramento River,2016,CenDel,Vemco,Chips,13.5
+433.YBUS,39413,4.133391204,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+434.YBUS,39417,13.4121875,Middle Sacramento River,2016,CenDel,Vemco,Chips,13.5
+435.YBUS,39419,4.372789352,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+436.YBUS,39420,7.462685185,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+437.YBUS,39427,7.18037037,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+438.YBUS,39428,6.724282407,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+439.YBUS,39431,10.91225694,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+44.MJ,5809,16.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+44.YBUS,36491,8.386342593,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+440.YBUS,39432,6.160659722,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+441.YBUS,39433,4.640405093,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+442.YBUS,39434,14.48722222,Middle Sacramento River,2016,SacR,Vemco,Chips,13.5
+443.YBUS,39436,6.922511574,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+444.YBUS,39437,5.686238426,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+445.YBUS,39444,3.97087963,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.2
+446.YBUS,39447,6.248877315,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+447.YBUS,39449,3.674085648,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.2
+448.YBUS,39452,3.762268519,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+449.YBUS,39456,3.647395833,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+45.MJ,5811,9.395833333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+45.YBUS,36493,3.502002315,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+450.YBUS,39461,6.970300926,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+451.YBUS,39462,3.627662037,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+452.YBUS,39465,5.798333333,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.2
+453.YBUS,39466,6.8846875,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+454.YBUS,39467,3.0496875,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+455.YBUS,39468,3.519537037,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+456.YBUS,39471,3.619340278,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+457.YBUS,39473,7.304351852,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+458.YBUS,39474,4.573958333,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+459.YBUS,39475,3.439479167,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.6
+46.MJ,5814,20.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+46.YBUS,36497,7.617465278,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+460.YBUS,39477,3.050856481,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+461.YBUS,39478,3.592858796,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+462.YBUS,39479,3.204409722,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+463.YBUS,39481,4.295081019,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+464.YBUS,39482,3.377418981,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+465.YBUS,39483,5.476805556,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+466.YBUS,39484,4.869618056,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+467.YBUS,39487,3.448761574,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+468.YBUS,39488,4.351759259,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+469.YBUS,39491,4.992361111,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+47.MJ,5815,17.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+47.YBUS,36500,1.874606481,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+470.YBUS,39492,3.323078704,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+471.YBUS,39493,2.957569444,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+472.YBUS,39494,3.838229167,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+473.YBUS,39495,3.840231481,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+474.YBUS,39497,3.799016204,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+475.YBUS,39499,6.304212963,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+476.YBUS,39501,3.779571759,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+477.YBUS,39502,3.608946759,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+478.YBUS,39503,5.355578704,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+479.YBUS,39504,5.245023148,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.2
+48.MJ,5824,12.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+48.YBUS,36503,7.646377315,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+480.YBUS,39508,3.123217593,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+481.YBUS,39521,4.940960648,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+482.YBUS,39522,10.12881944,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+483.YBUS,39524,3.760914352,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+484.YBUS,39525,6.536631944,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+485.YBUS,39526,4.577453704,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.4
+486.YBUS,39531,3.48943287,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+487.YBUS,39532,13.6196875,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.4
+488.YBUS,39536,3.302384259,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+489.YBUS,39537,5.929224537,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+49.MJ,5826,17.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+49.YBUS,36504,9.15125,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11
+490.YBUS,39538,3.321388889,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+491.YBUS,39539,3.33212963,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+492.YBUS,39541,3.825243056,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+493.YBUS,39544,4.899456019,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+494.YBUS,39545,17.30414352,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+495.YBUS,39546,4.407141204,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+496.YBUS,39547,8.875613426,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+497.YBUS,39548,2.623726852,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+498.YBUS,39549,3.368622685,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+499.YBUS,39550,2.282465278,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+5.MJ,2059,10.79810185,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+5.YBUS,36347,5.570648148,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+50.MJ,5828,6.395833333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+50.YBUS,36505,6.634398148,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+500.YBUS,39551,7.45025463,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+501.YBUS,39552,1.825763889,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+502.YBUS,39553,3.729699074,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+503.YBUS,39554,3.105625,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+504.YBUS,39555,4.163148148,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+505.YBUS,39557,2.702303241,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+506.YBUS,39558,3.744872685,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+507.YBUS,39559,3.000127315,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+508.YBUS,39560,6.189641204,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+509.YBUS,39561,3.756342593,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+51.MJ,5848,20.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+51.YBUS,36506,18.05020833,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+510.YBUS,39563,11.93873843,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+511.YBUS,39565,5.162974537,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+512.YBUS,39569,2.097743056,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+513.YBUS,39570,2.135162037,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+514.YBUS,39571,3.233113426,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+515.YBUS,39574,3.927650463,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+516.YBUS,39577,3.491712963,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+517.YBUS,39578,3.949409722,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+518.YBUS,39579,3.886331019,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+519.YBUS,39580,3.716967593,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+52.MJ,5850,15.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+52.YBUS,36515,7.137893519,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+520.YBUS,39582,4.837824074,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+521.YBUS,39583,10.40627315,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+522.YBUS,39584,4.274421296,Tidal Delta,2016,Yolo,Vemco,Chips,11.6
+523.YBUS,39586,3.813877315,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+524.YBUS,39588,1.849375,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+525.YBUS,39589,1.798032407,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+526.YBUS,39590,2.340185185,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+527.YBUS,39591,6.369143519,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+528.YBUS,39592,3.867905093,Middle Sacramento River,2016,SacR,Vemco,Chips,12.6
+529.YBUS,39594,7.434791667,Middle Sacramento River,2016,CenDel,Vemco,Chips,12.6
+53.MJ,5853,15.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+53.YBUS,36522,3.917361111,Middle Sacramento River,2016,SacR,Vemco,Chips,11.2
+530.YBUS,39595,4.454155093,Middle Sacramento River,2016,SacR,Vemco,Chips,12.6
+531.YBUS,39597,13.98262731,Middle Sacramento River,2016,SacR,Vemco,Chips,12.6
+532.YBUS,39598,7.911030093,Middle Sacramento River,2016,CenDel,Vemco,Chips,12.6
+533.YBUS,39599,5.322708333,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+534.YBUS,39602,6.396793981,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+535.YBUS,39603,14.57759259,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+536.YBUS,39605,7.463969907,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+537.YBUS,39606,4.781712963,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+538.YBUS,39607,3.438159722,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+539.YBUS,39610,3.404444444,Middle Sacramento River,2016,SacR,Vemco,Chips,12.6
+54.MJ,5854,18.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+54.YBUS,36526,7.218240741,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+540.YBUS,39612,3.414502315,Middle Sacramento River,2016,SacR,Vemco,Chips,12.6
+541.YBUS,39613,3.969837963,Middle Sacramento River,2016,SacR,Vemco,Chips,12.6
+542.YBUS,39616,4.923217593,Middle Sacramento River,2016,SacR,Vemco,Chips,12.6
+543.YBUS,39617,5.384444444,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+544.YBUS,39618,3.821412037,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+545.YBUS,39619,3.871041667,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+546.YBUS,39621,4.350960648,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+547.YBUS,39622,3.310497685,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+548.YBUS,39623,6.470081019,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+549.YBUS,39624,4.447974537,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+55.MJ,5857,7.395833333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+55.YBUS,36532,16.37167824,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+550.YBUS,39625,2.815648148,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+551.YBUS,39627,2.40318287,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+552.YBUS,39628,2.59037037,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+553.YBUS,39629,1.892337963,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+554.YBUS,39630,1.885439815,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+555.YBUS,39631,5.970833333,Middle Sacramento River,2016,CenDel,Vemco,Chips,12.5
+556.YBUS,39632,2.40400463,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+557.YBUS,39633,1.948043981,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+558.YBUS,39636,3.5684375,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+559.YBUS,39637,8.180902778,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+56.MJ,5860,25.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+56.YBUS,36534,9.258043981,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+560.YBUS,39638,14.14641204,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+561.YBUS,39642,8.633576389,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+562.YBUS,39643,2.591655093,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+563.YBUS,39644,5.573599537,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+564.YBUS,39645,5.498356481,Middle Sacramento River,2016,CenDel,Vemco,Chips,13.2
+565.YBUS,39646,2.595023148,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.2
+566.YBUS,39648,2.041643519,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+567.YBUS,39649,5.169247685,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+568.YBUS,39650,2.421805556,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+569.YBUS,39652,3.089305556,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+57.MJ,5862,6.395833333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+57.YBUS,36535,3.327233796,Middle Sacramento River,2016,Yolo,Vemco,Chips,11.6
+570.YBUS,39661,4.719293981,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+571.YBUS,39662,2.721655093,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+572.YBUS,39663,3.322152778,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+573.YBUS,39664,3.713298611,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+574.YBUS,39665,5.50869213,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+575.YBUS,39666,2.253981481,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+576.YBUS,39668,2.254259259,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+577.YBUS,39669,4.177708333,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+578.YBUS,39671,3.720601852,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+579.YBUS,39672,2.7203125,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+58.MJ,5863,19.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+58.YBUS,36537,5.857858796,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+580.YBUS,39673,2.231284722,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+581.YBUS,39675,6.603715278,Middle Sacramento River,2016,CenDel,Vemco,Chips,13.2
+582.YBUS,39676,2.452164352,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+583.YBUS,39677,2.077013889,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+584.YBUS,39680,2.461747685,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+585.YBUS,39681,2.755439815,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+586.YBUS,39683,9.740671296,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+587.YBUS,39685,4.84900463,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+588.YBUS,39686,3.787291667,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+589.YBUS,39689,9.383784722,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+59.MJ,5865,5.395833333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+59.YBUS,36585,7.894189815,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+590.YBUS,39692,2.699027778,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+591.YBUS,39693,2.767592593,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+592.YBUS,39694,2.462893519,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+593.YBUS,39695,3.136446759,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+594.YBUS,39696,3.59943287,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+595.YBUS,39697,4.11712963,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+596.YBUS,39699,4.086956019,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+597.YBUS,39701,6.735694444,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+598.YBUS,39702,3.172488426,Tidal Delta,2016,Yolo,Vemco,Chips,13.2
+599.YBUS,39704,2.095891204,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+6.MJ,2063,7.626655093,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+6.YBUS,36354,7.561226852,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11
+60.MJ,5866,20.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+60.YBUS,36588,5.701203704,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+600.YBUS,39706,3.075868056,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+601.YBUS,39707,3.051527778,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+602.YBUS,39710,2.02599537,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.2
+603.YBUS,39711,2.059907407,Middle Sacramento River,2016,SacR,Vemco,Chips,13.2
+604.YBUS,39712,4.166805556,Middle Sacramento River,2016,CenDel,Vemco,Chips,13.2
+605.YBUS,39713,4.394803241,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+606.YBUS,39715,4.053599537,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+607.YBUS,39719,9.631631944,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+608.YBUS,39721,3.595023148,Tidal Delta,2016,Yolo,Vemco,Chips,14.4
+609.YBUS,39722,5.366180556,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+61.MJ,5868,11.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+61.YBUS,36590,16.70917824,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+610.YBUS,39723,3.369375,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+611.YBUS,39725,3.472534722,Middle Sacramento River,2016,SacR,Vemco,Chips,12.5
+612.YBUS,39726,4.364375,Middle Sacramento River,2016,CenDel,Vemco,Chips,12.5
+613.YBUS,39727,2.114861111,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11.6
+614.YBUS,39733,3.192974537,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+615.YBUS,39735,2.680081019,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+616.YBUS,39737,4.75181713,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+617.YBUS,39739,3.19962963,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+618.YBUS,39740,3.057280093,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+619.YBUS,39742,4.176805556,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+62.MJ,5869,15.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+62.YBUS,36591,2.653032407,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+620.YBUS,39744,8.244699074,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+621.YBUS,39804,4.472916667,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+622.YBUS,39807,2.377268519,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+623.YBUS,39808,2.513425926,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+624.YBUS,39809,3.00412037,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+625.YBUS,39811,4.571284722,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+626.YBUS,39812,2.306446759,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+627.YBUS,39814,5.34599537,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.5
+628.YBUS,39815,3.740451389,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+629.YBUS,39816,6.063206019,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+63.MJ,5870,13.39583333,Middle Sacramento River,2013,SacR,Vemco,Chips,14.8
+63.YBUS,36595,5.720011574,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+630.YBUS,39818,3.318310185,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+631.YBUS,39820,4.011898148,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+632.YBUS,39821,10.03546296,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+633.YBUS,39824,5.011469907,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+634.YBUS,39825,2.425381944,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+635.YBUS,39826,6.057337963,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+636.YBUS,39827,2.330648148,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+637.YBUS,39829,1.987037037,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+638.YBUS,39832,3.022569444,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+639.YBUS,39833,3.950868056,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+64.YBUS,36597,17.80987269,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+640.YBUS,39837,5.602268519,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+641.YBUS,39839,3.92431713,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+642.YBUS,39842,3.367465278,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+643.YBUS,39846,3.302384259,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+644.YBUS,39848,4.358831019,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+645.YBUS,39849,3.511458333,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+646.YBUS,39850,3.254340278,Tidal Delta,2016,Yolo,Vemco,Chips,12.5
+647.YBUS,39852,6.756724537,Middle Sacramento River,2016,CenDel,Vemco,Chips,11.6
+648.YBUS,39853,3.513842593,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+649.YBUS,39854,3.090694444,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+65.YBUS,36598,6.138298611,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+650.YBUS,39855,3.492106481,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+651.YBUS,39856,4.495752315,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+652.YBUS,39858,3.458414352,Middle Sacramento River,2016,SacR,Vemco,Chips,11.6
+653.YBUS,39861,16.87496528,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+654.YBUS,39865,9.369027778,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+655.YBUS,39866,3.009618056,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+656.YBUS,39870,4.08119213,Tidal Delta,2016,Yolo,Vemco,Chips,12.8
+657.YBUS,39871,2.778842593,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+658.YBUS,39872,2.770324074,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+659.YBUS,39873,4.856365741,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+66.YBUS,36601,8.68056713,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+660.YBUS,39874,4.961759259,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+661.YBUS,39878,5.918923611,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+662.YBUS,39879,5.44056713,Tidal Delta,2016,Yolo,Vemco,Chips,12.7
+67.YBUS,36602,5.168645833,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+68.YBUS,36604,7.252592593,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+69.YBUS,36608,6.554467593,Middle Sacramento River,2016,CenDel,Vemco,Chips,13
+7.MJ,2064,9.691782407,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+7.YBUS,36355,8.59900463,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+70.YBUS,36614,5.259560185,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+71.YBUS,36618,6.28994213,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+72.YBUS,36620,2.222766204,Middle Sacramento River,2016,SacR,Vemco,Chips,11.5
+73.YBUS,36621,9.925775463,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+74.YBUS,36623,5.898831019,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+75.YBUS,36625,7.197037037,Middle Sacramento River,2016,SacR,Vemco,Chips,12.9
+76.YBUS,36627,3.316979167,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+77.YBUS,36630,10.00861111,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+78.YBUS,36632,8.050439815,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+79.YBUS,36633,5.901030093,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+8.MJ,2065,6.838101852,Middle Sacramento River,2012,SacR,Vemco,Chips,13.8
+8.YBUS,36358,5.538576389,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+80.YBUS,36634,8.140775463,Middle Sacramento River,2016,CenDel,Vemco,Chips,11
+81.YBUS,36638,6.585277778,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+82.YBUS,36640,8.67037037,Middle Sacramento River,2016,CenDel,Vemco,Chips,11
+83.YBUS,36641,4.511458333,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+84.YBUS,36642,6.523206019,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+85.YBUS,36643,3.790960648,Tidal Delta,2016,Yolo,Vemco,Chips,12.2
+86.YBUS,36646,6.534143519,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,11
+87.YBUS,36648,8.5846875,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+88.YBUS,36651,6.692465278,Middle Sacramento River,2016,SacR,Vemco,Chips,11
+89.YBUS,36652,4.363530093,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+9.MJ,2066,7.679178241,Tidal Delta,2012,Yolo,Vemco,Chips,13.8
+9.YBUS,36364,6.570451389,Middle Sacramento River,2016,SacR,Vemco,Chips,13
+90.YBUS,36653,3.858715278,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+91.YBUS,36654,6.981006944,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+92.YBUS,36656,5.280011574,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+93.YBUS,36660,6.938842593,Middle Sacramento River,2016,CenDel,Vemco,Chips,12.1
+94.YBUS,36664,4.885821759,Middle Sacramento River,2016,SacR,Vemco,Chips,12.1
+95.YBUS,36665,17.26520833,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,12.1
+96.YBUS,36739,11.64070602,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+97.YBUS,36740,10.47890046,Middle Sacramento River,2016,SacR,Vemco,Chips,11.4
+98.YBUS,38782,5.623738426,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+99.YBUS,38783,4.666655093,Middle Sacramento River,2016,SacRSlough,Vemco,Chips,13.5
+ARF2016-009,1,5.00821919,Tidal Delta,2016,SacR,JSATS,Chips,13.41094771
+ARF2016-076,2,6.038989572,Tidal Delta,2016,SacR,JSATS,Chips,13.41094771
+ARF2016-106,3,5.546001447,Tidal Delta,2016,SacR,JSATS,Chips,13.41094771
+ARF2016-114,4,3.421472361,Tidal Delta,2016,SacR,JSATS,Chips,13.41094771
+ARF2016-173,5,6.12675515,Tidal Delta,2016,SacRSlough,JSATS,Chips,13.41094771
+ARF2017-005,6,5.938021516,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-007,7,2.857594329,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.5
+ARF2017-012,8,3.426394931,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-016,9,3.809855984,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-022,10,3.917853171,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-024,11,5.89481265,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-026,12,3.826625648,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-030,13,3.952027882,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-045,14,6.46674963,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-047,15,2.865607118,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-049,16,2.92198081,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-050,17,5.137700845,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-051,18,3.934202407,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-054,19,3.900497616,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.5
+ARF2017-058,20,2.862026725,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-064,21,3.804435451,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-075,22,6.008985463,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-079,23,3.807415139,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.5
+ARF2017-081,24,5.960663924,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-101,25,3.992796748,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-105,26,4.841694317,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.5
+ARF2017-108,27,6.023383889,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-114,28,2.849910081,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-115,29,3.937599178,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-117,30,3.841000856,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.5
+ARF2017-118,31,5.005969664,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-121,32,3.83485772,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-130,33,4.894428958,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-135,34,5.987220926,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-136,35,3.411964491,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-139,36,4.399790486,Tidal Delta,2017,SacR,JSATS,Chips,13.5
+ARF2017-152,37,3.741574097,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-157,38,3.137971806,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-159,39,4.702446644,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.99346405
+ARF2017-170,40,3.690511956,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-173,41,3.118376042,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-177,42,3.124274699,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-184,43,3.648416285,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-194,44,3.100334769,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-200,45,4.777066563,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-205,46,3.110091343,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-206,47,3.087120428,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-211,48,5.717364583,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-213,49,3.177554757,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.99346405
+ARF2017-214,50,3.205827639,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-219,51,3.027352106,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.99346405
+ARF2017-248,52,3.121043079,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-258,53,3.142732141,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-266,54,2.721326053,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-269,55,4.673446227,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-270,56,4.151575521,Tidal Delta,2017,SacRSlough,JSATS,Chips,13.99346405
+ARF2017-271,57,3.49068,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-286,58,3.13153485,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-290,59,3.140726273,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+ARF2017-292,60,3.142396956,Tidal Delta,2017,SacR,JSATS,Chips,13.99346405
+CFC2013-023,61,12.45548365,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,10.72036603
+CFC2013-030,62,11.27306791,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,10.72036603
+CFC2013-044,63,10.24550455,Upper Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,10.72036603
+CFC2013-111,64,12.54126792,Upper Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,10.72036603
+CFC2013-162,65,10.8975816,Upper Sacramento River,2013,CenDel,JSATS,Ben.Ant,11.36017182
+CFC2013-163,66,11.61194883,Upper Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,11.36017182
+CFC2013-177,67,12.60793144,Upper Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,11.36017182
+CFC2013-179,68,10.05872496,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,11.36017182
+CFC2013-193,69,17.53432635,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,11.36017182
+CFC2013-208,70,11.3892986,Upper Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,11.36017182
+CFC2013-216,71,12.06878504,Upper Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,11.36017182
+CFC2013-251,72,13.91490208,Upper Sacramento River,2013,CenDel,JSATS,Ben.Ant,11.36017182
+CFC2017-011,73,13.5712865,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-012,74,15.87432249,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-015,75,12.77421516,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-024,76,12.87776597,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-026,77,7.236919537,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.776093
+CFC2017-029,78,6.752079734,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-031,79,5.688922292,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-032,80,7.324769583,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-034,81,9.911923924,Upper Sacramento River,2017,SacR,JSATS,Ben.Dec,10.776093
+CFC2017-035,82,10.39416799,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-037,83,6.255985162,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-038,84,8.23614537,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-039,85,7.471021412,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Ben.Dec,10.776093
+CFC2017-041,86,12.88263708,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-042,87,5.772794734,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-047,88,6.817461366,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-048,89,11.73331821,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-052,90,6.817824479,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,10.776093
+CFC2017-060,91,7.334616007,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-062,92,9.876642569,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-066,93,7.715509907,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-068,94,14.60640397,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-070,95,10.79349716,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-073,96,8.673140231,Upper Sacramento River,2017,"Yolo, SacRSlough, CenDel",JSATS,Chips,10.776093
+CFC2017-079,97,6.271401088,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,10.776093
+CFC2017-080,98,6.707004653,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,10.776093
+CFC2017-082,99,5.789734225,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-085,100,5.76441,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,10.776093
+CFC2017-086,101,24.9116816,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-088,102,9.364797234,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-097,103,5.752073252,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-105,104,5.288241748,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-108,105,7.246038044,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-118,106,25.75331505,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,10.776093
+CFC2017-119,107,10.92091997,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-122,108,27.04780435,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.776093
+CFC2017-124,109,7.768030498,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-127,110,17.67880105,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.776093
+CFC2017-131,111,11.77952895,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-132,112,6.687672257,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-142,113,9.931566701,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-145,114,11.7629691,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-149,115,7.270376343,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-155,116,8.797260613,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-158,117,8.757140694,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-166,118,31.15342098,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-168,119,6.798975775,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-174,120,12.84750247,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-176,121,9.813325266,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-178,122,5.722885544,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-179,123,12.04008806,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-180,124,6.774201192,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,10.776093
+CFC2017-185,125,7.37140081,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-187,126,12.00790314,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-199,127,6.779831019,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,10.776093
+CFC2017-210,128,12.7317678,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-212,129,6.886426192,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-213,130,6.818213356,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.776093
+CFC2017-218,131,7.952025498,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-219,132,6.284143843,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,10.776093
+CFC2017-221,133,5.773489213,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-224,134,8.308200822,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,10.776093
+CFC2017-226,135,8.827274606,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-227,136,8.294500579,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-230,137,8.353355486,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-232,138,6.72082522,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-237,139,9.322610382,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-238,140,10.92557964,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-239,141,11.02946744,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-240,142,7.827545544,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,10.776093
+CFC2017-242,143,11.99561833,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-244,144,14.66216368,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-248,145,9.948722951,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-249,146,9.80248228,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-263,147,12.77402962,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-265,148,6.748844896,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-266,149,8.773868785,Upper Sacramento River,2017,CenDel,JSATS,Chips,10.776093
+CFC2017-277,150,9.973481736,Upper Sacramento River,2017,SacR,JSATS,Chips,10.776093
+CFC2017-297,151,15.47975771,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,10.95940913
+CFC2017-320,152,14.93661845,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-325,153,13.21387508,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-330,154,7.156032593,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-331,155,14.47898855,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-335,156,15.35904602,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-347,157,14.42864935,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-352,158,14.97372897,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-355,159,16.35681794,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-359,160,6.630907558,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-381,161,14.94536089,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-382,162,15.0036077,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-386,163,12.19558294,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-392,164,12.23267167,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-395,165,14.42952803,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-397,166,12.32033193,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-398,167,14.91203066,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-401,168,14.99603075,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-408,169,14.36127188,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-413,170,14.98300514,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-415,171,13.29318696,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-428,172,15.46786506,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-430,173,19.6291201,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-452,174,13.34871854,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-454,175,16.49567334,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-455,176,14.46938728,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-458,177,12.15946925,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,10.95940913
+CFC2017-468,178,14.97349608,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-472,179,13.86079998,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-480,180,11.28934525,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-483,181,8.157994063,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-488,182,10.2681961,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-492,183,15.49228259,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-499,184,14.24949279,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-503,185,11.81941106,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-506,186,14.40632741,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-515,187,14.61987194,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-524,188,14.30588352,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-527,189,13.2531599,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-529,190,15.03008088,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-538,191,12.2860748,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-540,192,13.20576491,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-553,193,16.38236907,Upper Sacramento River,2017,SacR,JSATS,Chips,10.95940913
+CFC2017-554,194,14.93252771,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFC2017-557,195,15.97500448,Upper Sacramento River,2017,Yolo,JSATS,Chips,10.95940913
+CFR2016-007,196,9.210265694,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,13.38056222
+CFR2016-026,197,13.99006709,Upper Sacramento River,2016,CenDel,JSATS,Chips,13.38056222
+CFR2016-027,198,10.89675713,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-036,199,10.32810395,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-055,200,7.160400301,Upper Sacramento River,2016,SacR,JSATS,Ben.Dec,13.38056222
+CFR2016-056,201,10.397142,Upper Sacramento River,2016,"SacRSlough, CenDel",JSATS,Chips,13.38056222
+CFR2016-090,202,12.36858045,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-110,203,10.92070475,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-111,204,8.339057419,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-174,205,8.214720023,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-199,206,10.3331408,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-215,207,7.511185671,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,13.38056222
+CFR2016-232,208,10.9599138,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-242,209,7.408067465,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+CFR2016-244,210,8.946827384,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,13.38056222
+CFR2016-302,211,8.98358294,Upper Sacramento River,2016,SacR,JSATS,Chips,13.38056222
+Delta2013-004,212,8.074132193,Tidal Delta,2013,CenDel,JSATS,Ben.Ant,17.395906
+Delta2013-012,213,6.764034728,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-013,214,7.280385168,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-016,215,7.974488559,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-021,216,10.35550813,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+Delta2013-027,217,12.14682349,Tidal Delta,2013,"SacRSlough, CenDel",JSATS,Ben.Ant,17.395906
+Delta2013-033,218,5.574410781,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+Delta2013-034,219,9.050652546,Tidal Delta,2013,CenDel,JSATS,Ben.Ant,17.395906
+Delta2013-043,220,12.90417132,Tidal Delta,2013,CenDel,JSATS,Ben.Ant,17.395906
+Delta2013-047,221,5.838420191,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+Delta2013-069,222,4.597998362,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-071,223,13.588264,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-075,224,7.647467685,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+Delta2013-084,225,6.44911125,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-088,226,5.726424763,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-104,227,4.035253385,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-106,228,5.070442147,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+Delta2013-114,229,3.175560451,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-115,230,8.549270579,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,17.395906
+Delta2013-117,231,5.23046923,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+Delta2013-136,232,7.2920307,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+Delta2013-144,233,8.463732575,Tidal Delta,2013,SacR,JSATS,Ben.Dec,17.395906
+FR-Delta2013-013,768,6.096976557,Tidal Delta,2013,SacR,JSATS,Ben.Dec,19.880579
+FR-Delta2013-024,769,6.821662546,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-028,770,10.37022641,Tidal Delta,2013,SacR,JSATS,Ben.Dec,19.880579
+FR-Delta2013-038,771,4.98978636,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-047,772,9.629292471,Tidal Delta,2013,SacR,JSATS,Ben.Dec,19.880579
+FR-Delta2013-055,773,6.071154115,Tidal Delta,2013,"SacRSlough, CenDel",JSATS,Ben.Ant,19.880579
+FR-Delta2013-058,774,14.63038133,Tidal Delta,2013,CenDel,JSATS,Ben.Ant,19.5089
+FR-Delta2013-069,775,6.485178802,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-076,776,5.048406019,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-083,777,7.867219751,Tidal Delta,2013,CenDel,JSATS,Ben.Dec,19.5089
+FR-Delta2013-101,778,4.547980255,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-112,779,5.319604844,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-116,780,4.528389919,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-117,781,6.112172882,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.5089
+FR-Delta2013-119,782,7.349693698,Tidal Delta,2013,"SacRSlough, CenDel",JSATS,Ben.Ant,19.880579
+FR-Delta2013-132,783,4.6934886,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.880579
+FR-Delta2013-133,784,4.630492824,Tidal Delta,2013,SacRSlough,JSATS,Ben.Dec,19.5089
+FR-Delta2015-194,785,5.696996366,Tidal Delta,2015,SacRSlough,JSATS,Ben.Dec,15.984982
+FR-Delta2015-268,786,5.667761644,Tidal Delta,2015,SacRSlough,JSATS,Ben.Dec,15.984982
+FR2013-022,234,13.8713502,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,12.53457746
+FR2013-116,235,8.810451736,Middle Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,12.53457746
+FR2013-155,236,8.384113056,Middle Sacramento River,2013,CenDel,JSATS,Ben.Ant,12.91367725
+FR2013-156,237,11.99513597,Middle Sacramento River,2013,CenDel,JSATS,Ben.Ant,12.91367725
+FR2013-172,238,9.212610463,Middle Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,12.91367725
+FR2013-175,239,9.450674751,Middle Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,12.91367725
+FR2013-193,240,15.78117726,Middle Sacramento River,2013,"SacRSlough, CenDel",JSATS,Ben.Ant,12.91367725
+FR2013-197,241,8.170610845,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,12.91367725
+FR2013-217,242,6.393905619,Middle Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,12.91367725
+FR2013-261,243,9.971165029,Middle Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,12.91367725
+FR2013-279,244,7.686389745,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,12.91367725
+FR2013-280,245,8.948006898,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,12.91367725
+LFC0313,1336,16.22008102,Upper Sacramento River,2007,SacR,Vemco,Chips,8.94
+LFC0325,1334,15.37766204,Upper Sacramento River,2007,SacRSlough,Vemco,Chips,8.94
+LFC0346,1299,12.32972222,Upper Sacramento River,2007,SacR,Vemco,Chips,8.81
+LFC0348,1301,22.20266204,Upper Sacramento River,2007,SacR,Vemco,Chips,8.81
+LFC0351,1376,16.12559028,Upper Sacramento River,2007,CenDel,Vemco,Chips,8.81
+LFC0614,15302,24.39206019,Upper Sacramento River,2008,"SacRSlough, CenDel",Vemco,Chips,11.29
+LFC0616,15304,24.53872685,Upper Sacramento River,2008,SacR,Vemco,Chips,11.29
+LFC0623,15311,34.260625,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,11.29
+LFC0627,15315,61.25293981,Upper Sacramento River,2008,SacR,Vemco,Chips,11.29
+LFC0628,15316,29.1734375,Upper Sacramento River,2008,SacR,Vemco,Chips,11.29
+LFC0635,15323,34.69981481,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,11.29
+LFC0640,15328,38.89753472,Upper Sacramento River,2008,CenDel,Vemco,Chips,11.29
+LFC0649,15337,33.70003472,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,11.29
+LFC0653,15341,23.37422454,Upper Sacramento River,2008,SacR,Vemco,Chips,11.29
+LFC0654,15342,33.21688657,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,11.29
+LFC0655,15343,17.2240162,Upper Sacramento River,2008,SacR,Vemco,Chips,11.29
+LFC0663,15351,34.18380787,Middle Sacramento River,2008,SacR,Vemco,Chips,11.28
+LFC0666,15354,24.36719907,Middle Sacramento River,2008,CenDel,Vemco,Chips,11.28
+LFC0678,15366,29.09902778,Middle Sacramento River,2008,CenDel,Vemco,Chips,11.28
+LFC0685,15373,54.06898148,Middle Sacramento River,2008,CenDel,Vemco,Ben.Ant,11.28
+LFC0687,15375,15.57689815,Middle Sacramento River,2008,SacR,Vemco,Chips,11.28
+LFC0693,15381,31.27512731,Middle Sacramento River,2008,SacR,Vemco,Chips,11.39
+LFC0696,15384,19.69577546,Middle Sacramento River,2008,CenDel,Vemco,Chips,11.28
+LFC0704,15086,38.29783565,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,11.28
+LFC0706,15088,24.9246875,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,11.28
+LFC0724,15106,19.71725694,Middle Sacramento River,2008,SacR,Vemco,Chips,11.43
+LFC0727,15109,14.27994213,Middle Sacramento River,2008,SacR,Vemco,Chips,11.43
+LFC0728,15110,67.71568287,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,11.43
+LFC0738,15120,16.46694444,Middle Sacramento River,2008,SacR,Vemco,Chips,11.43
+LFC0741,15123,12.08914352,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,11.43
+LFC0746,15128,22.30640046,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,11.43
+LFC0747,15129,26.02927083,Middle Sacramento River,2008,"SacRSlough, CenDel",Vemco,Chips,11.43
+LFC0748,15130,32.23446759,Middle Sacramento River,2008,SacR,Vemco,Chips,11.43
+LFC0760,15142,34.24225694,Middle Sacramento River,2008,SacR,Vemco,Chips,11.43
+LFC0985,15268,15.04835648,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,7.055
+LFC0987,15270,19.18758102,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,7.055
+LFC0995,15279,14.16306713,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,7.055
+LFC1007,15291,21.68538194,Upper Sacramento River,2008,"SacRSlough, CenDel",Vemco,Chips,7.055
+LFC1018,15146,11.19987269,Upper Sacramento River,2008,SacR,Vemco,Chips,7.055
+LFC1025,15153,14.55640046,Upper Sacramento River,2008,SacRSlough,Vemco,Chips,7.055
+LFC1027,15155,15.04364583,Upper Sacramento River,2008,SacR,Vemco,Chips,7.055
+LFC1028,15156,15.0691088,Middle Sacramento River,2008,CenDel,Vemco,Chips,7.64
+LFC1029,15157,17.12465278,Middle Sacramento River,2008,SacR,Vemco,Ben.Dec,7.64
+LFC1033,15161,34.18234954,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,7.64
+LFC1039,15167,12.86840278,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,7.64
+LFC1041,15169,18.41866898,Middle Sacramento River,2008,SacR,Vemco,Chips,7.64
+LFC1044,15172,10.83953704,Middle Sacramento River,2008,SacR,Vemco,Chips,7.64
+LFC1045,15173,10.30712963,Middle Sacramento River,2008,SacR,Vemco,Ben.Dec,7.64
+LFC1047,15175,21.96164352,Middle Sacramento River,2008,CenDel,Vemco,Chips,7.64
+LFC1050,15178,13.62196759,Middle Sacramento River,2008,SacR,Vemco,Chips,7.64
+LFC1051,15179,19.24108796,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,7.64
+LFC1052,15180,14.84163194,Middle Sacramento River,2008,SacR,Vemco,Chips,7.25
+LFC1053,15181,32.17260417,Middle Sacramento River,2008,CenDel,Vemco,Chips,7.64
+LFC1057,15185,14.19783565,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,7.64
+LFC1061,15189,12.20523148,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,7.64
+LFC1062,15190,23.718125,Middle Sacramento River,2008,CenDel,Vemco,Chips,7.64
+LFC1064,15192,13.96100694,Middle Sacramento River,2008,"SacRSlough, CenDel",Vemco,Chips,7.64
+LFC1066,15194,13.98857639,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,7.64
+LFC1067,15195,11.58799769,Middle Sacramento River,2008,SacR,Vemco,Ben.Dec,7.64
+LFC1069,15197,11.9387037,Middle Sacramento River,2008,SacR,Vemco,Chips,7.64
+LFC1072,15200,22.66930556,Middle Sacramento River,2008,CenDel,Vemco,Chips,7.64
+LFC1073,15201,21.45130787,Middle Sacramento River,2008,CenDel,Vemco,Chips,7.64
+LFC1077,15205,28.86396991,Middle Sacramento River,2008,SacR,Vemco,Ben.Dec,7.64
+LFC1079,15207,11.58694444,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1080,15208,17.14872685,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1081,15209,10.84336806,Middle Sacramento River,2008,CenDel,Vemco,Chips,6.8
+LFC1082,15210,12.37365741,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1084,15212,10.84247685,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1087,15215,13.36287037,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1091,15219,11.33115741,Middle Sacramento River,2008,CenDel,Vemco,Chips,6.8
+LFC1093,15221,10.75616898,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1099,15227,11.2540625,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1101,15229,11.22894676,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1103,15231,11.94815972,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1106,15234,38.82364583,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1109,15237,14.96159722,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1113,15241,10.83554398,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1114,15242,11.50148148,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1115,15243,8.679016204,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1116,15244,11.26113426,Middle Sacramento River,2008,CenDel,Vemco,Chips,6.8
+LFC1120,15248,13.89134259,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1122,15250,36.22855324,Middle Sacramento River,2008,CenDel,Vemco,Chips,6.8
+LFC1124,15252,13.92570602,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1126,15254,31.07010417,Middle Sacramento River,2008,SacRSlough,Vemco,Chips,6.8
+LFC1128,15256,24.20228009,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1129,15257,10.76952546,Middle Sacramento River,2008,SacR,Vemco,Chips,6.8
+LFC1495,32162,15.70493056,Upper Sacramento River,2009,SacR,Vemco,Chips,10.31
+LFC1497,32165,20.328125,Upper Sacramento River,2009,SacR,Vemco,Chips,10.31
+LFC1498,32166,21.94755787,Upper Sacramento River,2009,CenDel,Vemco,Chips,10.31
+LFC1500,32168,31.23775463,Upper Sacramento River,2009,CenDel,Vemco,Chips,10.31
+LFC1502,32170,16.7415162,Upper Sacramento River,2009,SacR,Vemco,Chips,10.31
+LFC1506,32174,20.30954861,Upper Sacramento River,2009,SacRSlough,Vemco,Chips,10.31
+LFC1508,32176,21.08325231,Upper Sacramento River,2009,"SacRSlough, CenDel",Vemco,Chips,10.31
+LFC1511,32180,33.25873843,Upper Sacramento River,2009,CenDel,Vemco,Chips,10.31
+LFC1520,32189,16.46905093,Upper Sacramento River,2009,SacR,Vemco,Chips,10.31
+LFC1524,32193,45.59459491,Upper Sacramento River,2009,SacR,Vemco,Chips,10.31
+LFC1531,32200,16.2719213,Middle Sacramento River,2009,SacR,Vemco,Chips,9.58
+LFC1539,32208,16.23166667,Middle Sacramento River,2009,"SacRSlough, CenDel",Vemco,Chips,9.58
+LFC1545,32214,28.37969907,Middle Sacramento River,2009,CenDel,Vemco,Chips,9.58
+LFC1550,32219,16.48653935,Middle Sacramento River,2009,SacR,Vemco,Chips,9.58
+LFC1552,32221,21.19783565,Middle Sacramento River,2009,CenDel,Vemco,Chips,9.58
+LFC1556,32225,12.69240741,Middle Sacramento River,2009,SacR,Vemco,Chips,9.58
+LFC1559,32228,20.32893519,Middle Sacramento River,2009,SacR,Vemco,Chips,9.58
+LFC1563,32232,20.2450463,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.58
+LFC1566,32235,20.23188657,Middle Sacramento River,2009,SacR,Vemco,Chips,9.58
+LFC1567,32236,21.37118056,Middle Sacramento River,2009,CenDel,Vemco,Chips,9.58
+LFC1568,32237,19.21454861,Middle Sacramento River,2009,CenDel,Vemco,Chips,9.58
+LFC1569,32238,55.08344907,Middle Sacramento River,2009,SacR,Vemco,Chips,9.58
+LFC1570,32239,15.22243056,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.58
+LFC1571,32240,15.7022338,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.58
+LFC1573,32242,17.79181713,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.58
+LFC1574,32243,16.14665509,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.58
+LFC1582,32251,17.2678588,Middle Sacramento River,2009,SacR,Vemco,Chips,9.63
+LFC1585,32254,22.9777662,Middle Sacramento River,2009,SacR,Vemco,Chips,9.63
+LFC1588,32257,9.5059375,Middle Sacramento River,2009,SacR,Vemco,Chips,9.63
+LFC1594,32263,30.44872685,Middle Sacramento River,2009,CenDel,Vemco,Chips,9.63
+LFC1606,32275,21.83321759,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.63
+LFC1607,32276,22.37180556,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.63
+LFC1608,32277,22.41819444,Middle Sacramento River,2009,SacR,Vemco,Chips,9.63
+LFC1619,32288,20.15799769,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.63
+LFC1620,32289,43.25021991,Middle Sacramento River,2009,SacR,Vemco,Chips,9.63
+LFC1622,32291,15.71831019,Middle Sacramento River,2009,SacR,Vemco,Chips,9.63
+LFC1623,32292,10.17273148,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,9.63
+LFC1635,32304,46.28623843,Middle Sacramento River,2009,SacR,Vemco,Chips,8.41
+LFC1637,32306,14.70262731,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,8.41
+LFC1644,32313,44.17590278,Middle Sacramento River,2009,CenDel,Vemco,Chips,8.41
+LFC1651,32320,33.93047454,Middle Sacramento River,2009,CenDel,Vemco,Chips,8.41
+LFC1660,32329,10.49818287,Middle Sacramento River,2009,SacR,Vemco,Chips,8.42
+LFC1662,32331,15.48836806,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,8.41
+LFC1663,32332,20.24695602,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,8.41
+LFC1667,32336,10.11251157,Middle Sacramento River,2009,SacR,Vemco,Chips,8.41
+LFC1669,32338,11.13344907,Middle Sacramento River,2009,SacR,Vemco,Chips,8.41
+LFC1670,32339,10.08072917,Middle Sacramento River,2009,SacR,Vemco,Chips,8.41
+LFC1696,32517,37.86864583,Upper Sacramento River,2009,CenDel,Vemco,Chips,8.44
+LFC1702,32523,25.2843287,Upper Sacramento River,2009,SacRSlough,Vemco,Chips,8.44
+LFC1719,32540,17.89836806,Upper Sacramento River,2009,SacR,Vemco,Chips,8.44
+LFC1725,32546,21.12996528,Upper Sacramento River,2009,SacR,Vemco,Chips,8.44
+LFC1729,32550,62.64004051,Middle Sacramento River,2009,CenDel,Vemco,Ben.Dec,8.17
+LFC1736,32557,42.52796296,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,8.17
+LFC1738,32559,17.17885417,Middle Sacramento River,2009,CenDel,Vemco,Chips,8.17
+LFC1743,32564,40.04627315,Middle Sacramento River,2009,CenDel,Vemco,Chips,8.17
+LFC1745,32566,13.11869213,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,8.17
+LFC1766,32587,21.28792824,Middle Sacramento River,2009,SacR,Vemco,Chips,8.17
+LFC1768,32589,15.80350694,Middle Sacramento River,2009,SacRSlough,Vemco,Chips,8.38
+LFC3171,33528,39.93690972,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3172,33529,33.65853588,Upper Sacramento River,2010,SacRSlough,Vemco,Ben.Dec,10.305
+LFC3174,33531,9.91212963,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3178,33535,13.99513889,Upper Sacramento River,2010,"SacRSlough, CenDel",Vemco,Chips,10.305
+LFC3183,33540,35.27697917,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3190,33548,39.97824074,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3193,33551,25.00618056,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3207,33565,7.270324074,Middle Sacramento River,2010,SacR,Vemco,Chips,9.71
+LFC3208,33566,17.2210706,Middle Sacramento River,2010,SacRSlough,Vemco,Ben.Dec,9.71
+LFC3215,33574,31.18386574,Middle Sacramento River,2010,CenDel,Vemco,Chips,9.71
+LFC3231,33591,37.86885417,Middle Sacramento River,2010,SacR,Vemco,Chips,9.68
+LFC3232,33592,8.12818287,Middle Sacramento River,2010,SacR,Vemco,Chips,9.68
+LFC3238,33598,9.979756944,Middle Sacramento River,2010,"SacRSlough, CenDel",Vemco,Chips,9.68
+LFC3249,33609,31.63590278,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3254,33614,13.9946875,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3269,33631,8.130347222,Upper Sacramento River,2010,SacR,Vemco,Chips,10.305
+LFC3272,33634,55.49528935,Middle Sacramento River,2010,SacR,Vemco,Chips,9.68
+LFC3275,33639,11.43788773,Middle Sacramento River,2010,SacR,Vemco,Ben.Dec,9.68
+LFC3281,33646,22.33538194,Middle Sacramento River,2010,SacRSlough,Vemco,Chips,9.68
+LFC3295,33661,9.349259259,Middle Sacramento River,2010,SacR,Vemco,Chips,9.68
+LFC3297,33663,41.03898148,Middle Sacramento River,2010,SacRSlough,Vemco,Chips,9.75
+LFC3321,33688,37.91895833,Middle Sacramento River,2010,SacRSlough,Vemco,Chips,9.71
+LFC3327,33695,16.25390046,Upper Sacramento River,2010,SacR,Vemco,Chips,8.95
+LFC3330,33698,16.92072917,Upper Sacramento River,2010,SacRSlough,Vemco,Chips,8.95
+LFC3337,33705,21.00559028,Upper Sacramento River,2010,SacR,Vemco,Chips,8.95
+LFC3339,33707,16.26002315,Upper Sacramento River,2010,SacR,Vemco,Chips,8.95
+LFC3348,33718,15.74686343,Upper Sacramento River,2010,SacR,Vemco,Chips,8.95
+LFC3356,33729,16.28657407,Middle Sacramento River,2010,CenDel,Vemco,Chips,8.81
+LFC3371,33747,16.33532407,Middle Sacramento River,2010,SacR,Vemco,Chips,8.81
+LFC3375,33752,15.82539352,Middle Sacramento River,2010,SacR,Vemco,Chips,8.74
+LFC3376,33753,16.90833333,Middle Sacramento River,2010,SacRSlough,Vemco,Chips,8.74
+LFC3386,63761,52.13753472,Middle Sacramento River,2010,CenDel,Vemco,Chips,8.74
+LFC3388,63763,13.17740741,Middle Sacramento River,2010,SacR,Vemco,Chips,8.74
+LFC3389,63764,16.28394676,Middle Sacramento River,2010,SacR,Vemco,Chips,8.74
+LFC3390,63765,18.06783565,Middle Sacramento River,2010,SacRSlough,Vemco,Chips,8.74
+LFC3402,63777,14.77203704,Upper Sacramento River,2010,SacR,Vemco,Chips,8.95
+LFC3403,63778,70.54643519,Upper Sacramento River,2010,CenDel,Vemco,Chips,8.95
+LFC3406,63781,15.93491898,Upper Sacramento River,2010,SacR,Vemco,Chips,8.95
+LFC3407,63782,15.86553241,Upper Sacramento River,2010,SacR,Vemco,Chips,8.95
+LFC3409,63784,24.67513889,Upper Sacramento River,2010,CenDel,Vemco,Chips,8.95
+LFC3431,63807,15.77739583,Middle Sacramento River,2010,SacR,Vemco,Chips,8.74
+LFC3438,63814,15.80274306,Middle Sacramento River,2010,SacR,Vemco,Chips,8.74
+LFC3440,63816,15.9852662,Middle Sacramento River,2010,SacR,Vemco,Chips,8.74
+LFC3444,63820,56.71998843,Middle Sacramento River,2010,CenDel,Vemco,Chips,8.74
+LFC3457,63833,15.91197917,Middle Sacramento River,2010,SacR,Vemco,Chips,8.81
+LFC3460,63836,13.27487269,Middle Sacramento River,2010,CenDel,Vemco,Chips,8.81
+LFC3465,63841,14.9103125,Middle Sacramento River,2010,SacR,Vemco,Chips,8.81
+LFC3467,63843,15.18417824,Middle Sacramento River,2010,CenDel,Vemco,Chips,8.81
+LFC4297,21707,6.744241898,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4307,21717,8.002476852,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4310,21721,7.307025463,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4312,21723,5.407320602,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4315,21726,11.22825231,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4316,21727,28.19467593,Upper Sacramento River,2011,CenDel,Vemco,Chips,10.48
+LFC4317,21729,5.645821759,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4318,21730,6.614832176,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4323,21735,6.057407407,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4325,21737,8.870868056,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4331,21744,6.339299769,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4337,21757,8.363506944,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4338,21750,6.318929398,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4341,21754,6.107505787,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4345,21759,6.806319444,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4346,21760,19.99214699,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4347,21761,5.9696875,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4348,21762,5.123009259,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4350,21764,14.99752315,Upper Sacramento River,2011,CenDel,Vemco,Chips,10.48
+LFC4352,21766,5.094618056,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4355,21769,5.151400463,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4356,21770,5.314988426,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4358,21772,5.174490741,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4362,21777,10.1668287,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4364,21779,5.794502315,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4368,21783,9.882517361,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4370,21786,25.75361111,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4372,21788,8.155335648,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4373,21789,6.836087963,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4375,21791,5.010497685,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4376,21792,5.765266204,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4378,21794,6.354664352,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4379,21795,5.832372685,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4381,21797,8.118148148,Upper Sacramento River,2011,CenDel,Vemco,Chips,10.48
+LFC4382,21798,5.325740741,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4385,21802,7.551984954,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4388,21805,6.229884259,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4389,21806,9.018553241,Upper Sacramento River,2011,CenDel,Vemco,Chips,10.48
+LFC4391,21808,10.25070602,Upper Sacramento River,2011,CenDel,Vemco,Chips,10.48
+LFC4393,21811,9.055810185,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4394,21814,22.11763889,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4395,21815,5.852361111,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4397,21817,5.356412037,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4398,21818,5.059884259,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,10.48
+LFC4400,21820,10.26982639,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4404,21825,7.32193287,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4406,21827,7.116018519,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4409,21830,6.845138889,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4413,21834,6.159166667,Upper Sacramento River,2011,SacR,Vemco,Chips,10.48
+LFC4414,21835,6.631967593,Upper Sacramento River,2011,CenDel,Vemco,Chips,10.48
+LFC4417,21838,24.01431713,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4419,21840,18.70644676,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4420,21841,11.04081019,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4421,21842,16.67453704,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4424,21845,14.15658565,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4426,21847,16.17913194,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4427,21848,14.10568287,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4429,21850,61.17475694,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4430,21851,10.99943287,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4431,21852,22.97043981,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4435,21856,13.7481713,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4436,21857,38.84474537,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4438,21859,10.59788194,Upper Sacramento River,2011,CenDel,Vemco,Chips,9.43
+LFC4439,21861,10.91626157,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4441,21863,8.929351852,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4442,21864,20.24321759,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4445,21868,16.18467593,Upper Sacramento River,2011,"SacRSlough, CenDel",Vemco,Chips,9.43
+LFC4446,21869,16.99130787,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4447,39380,26.24119213,Upper Sacramento River,2011,"SacRSlough, CenDel",Vemco,Chips,9.43
+LFC4450,39383,56.81109954,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4451,39384,45.08284722,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4455,39389,9.169583333,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4456,39391,17.12849537,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4458,39393,17.18256944,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4459,39394,18.17821759,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4460,39395,9.044756944,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4464,39399,19.14931713,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4470,39406,9.099652778,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4472,39408,16.09563657,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4474,39410,14.14508102,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4476,39412,18.90516204,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4480,39416,24.01119213,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4481,39417,15.3768287,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4491,39430,9.919739583,Upper Sacramento River,2011,SacR,Vemco,Ben.Dec,9.43
+LFC4492,39431,24.22996528,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4493,39432,19.23903935,Upper Sacramento River,2011,CenDel,Vemco,Chips,9.43
+LFC4494,39434,28.23711806,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4496,39436,48.7425,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4497,39437,18.15096065,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4499,39439,14.59292824,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4501,39441,10.00791667,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4504,39444,25.06604167,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4507,39447,16.12799769,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4508,39448,25.01246528,Upper Sacramento River,2011,CenDel,Vemco,Chips,9.43
+LFC4511,39451,19.24086806,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4512,39452,31.12471065,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4521,39461,25.21002315,Upper Sacramento River,2011,CenDel,Vemco,Chips,9.43
+LFC4523,39463,62.6851331,Upper Sacramento River,2011,SacRSlough,Vemco,Ben.Dec,9.43
+LFC4526,39466,7.67244213,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4528,39468,7.844328704,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4531,39473,15.10149306,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4532,39474,9.014791667,Upper Sacramento River,2011,SacR,Vemco,Chips,9.43
+LFC4533,39475,48.44355324,Upper Sacramento River,2011,SacRSlough,Vemco,Chips,9.43
+LFC4536,39478,17.76023148,Upper Sacramento River,2011,"SacRSlough, CenDel",Vemco,Chips,9.43
+MC2017-001,246,10.44050558,Middle Sacramento River,2017,SacRSlough,JSATS,Chips,12.8
+MC2017-004,247,10.47165585,Middle Sacramento River,2017,CenDel,JSATS,Ben.Ant,12.8
+MC2017-005,248,8.426175625,Middle Sacramento River,2017,SacR,JSATS,Chips,12.8
+MC2017-009,249,20.49031211,Middle Sacramento River,2017,SacR,JSATS,Chips,11.49594907
+MC2017-011,250,6.515906817,Middle Sacramento River,2017,SacRSlough,JSATS,Chips,16
+MC2017-012,251,9.786038692,Middle Sacramento River,2017,SacR,JSATS,Chips,16
+MC2017-013,252,20.505733,Middle Sacramento River,2017,SacR,JSATS,Chips,14.89583333
+MC2017-015,253,6.608142222,Middle Sacramento River,2017,SacR,JSATS,Chips,14.89583333
+MC2017-019,254,16.57011975,Middle Sacramento River,2017,SacR,JSATS,Chips,14.89583333
+MC2017-027,255,6.810992465,Middle Sacramento River,2017,SacR,JSATS,Chips,15.2
+RBDD2017-001,256,11.71584856,Middle Sacramento River,2017,SacR,JSATS,Chips,14.518211
+RBDD2017-021,257,6.557042095,Middle Sacramento River,2017,SacR,JSATS,Chips,14.518211
+RBDD2017-022,258,7.524332454,Middle Sacramento River,2017,SacR,JSATS,Chips,14.518211
+RBDD2017-024,259,8.579396169,Middle Sacramento River,2017,SacR,JSATS,Chips,14.518211
+RBDD2017-027,260,7.112247326,Middle Sacramento River,2017,SacR,JSATS,Chips,14.518211
+RBDD2017-034,261,9.599517025,Middle Sacramento River,2017,SacR,JSATS,Chips,14.518211
+SB2015-115,262,8.548032714,Middle Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,13.70067786
+SB2016-010,263,5.495889005,Middle Sacramento River,2016,SacRSlough,JSATS,Chips,16.44902141
+SB2016-045,264,4.443147639,Middle Sacramento River,2016,SacRSlough,JSATS,Chips,15.75864129
+SB2016-048,265,5.494374549,Middle Sacramento River,2016,SacRSlough,JSATS,Chips,15.75864129
+SB2016-055,266,5.424878854,Middle Sacramento River,2016,SacR,JSATS,Chips,15.75864129
+SB2016-059,267,13.74823795,Middle Sacramento River,2016,SacR,JSATS,Chips,15.75864129
+SB2016-061,268,5.485438137,Middle Sacramento River,2016,SacR,JSATS,Chips,15.75864129
+SB2016-063,269,7.619477222,Middle Sacramento River,2016,SacRSlough,JSATS,Chips,15.75864129
+SB2016-094,270,4.495602963,Middle Sacramento River,2016,SacRSlough,JSATS,Chips,15.75864129
+SB2016-138,271,5.50791625,Middle Sacramento River,2016,SacR,JSATS,Chips,15.94102349
+SB2016-196,272,5.639379479,Middle Sacramento River,2016,SacRSlough,JSATS,Chips,17.08906996
+SB2017-012,273,4.552404051,Middle Sacramento River,2017,SacR,JSATS,Chips,23.561019
+SB2017-017,274,4.602793449,Middle Sacramento River,2017,SacR,JSATS,Chips,23.561019
+SB2017-022,275,4.522494178,Middle Sacramento River,2017,SacR,JSATS,Chips,22.53433645
+SB2017-024,276,7.504639433,Middle Sacramento River,2017,SacR,JSATS,Chips,22.53433645
+SB2017-027,277,4.429735243,Middle Sacramento River,2017,SacR,JSATS,Chips,22.53433645
+SB2017-032,278,4.47455559,Middle Sacramento River,2017,SacR,JSATS,Chips,22.53433645
+SB2017-033,279,5.463758345,Middle Sacramento River,2017,SacR,JSATS,Chips,22.53433645
+SB2017-087,280,5.267570475,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-097,281,5.230718634,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-098,282,6.175984769,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-099,283,5.198184282,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-103,284,6.29864934,Middle Sacramento River,2017,SacRSlough,JSATS,Chips,21.96584543
+SB2017-114,285,4.585049097,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-119,286,5.944555741,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-124,287,3.682541713,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-128,288,4.443524028,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-130,289,6.601881586,Middle Sacramento River,2017,SacRSlough,JSATS,Chips,21.96584543
+SB2017-132,290,5.723689977,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-138,291,7.563271065,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-141,292,5.529680914,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-142,293,6.492250266,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-146,294,4.728995498,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-147,295,6.778972188,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-154,296,4.493182801,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-155,297,4.562100995,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-157,298,5.711528275,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-158,299,6.738808275,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-163,300,5.575064572,Middle Sacramento River,2017,SacRSlough,JSATS,Chips,21.96584543
+SB2017-167,301,4.537221238,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-168,302,4.401089745,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-170,303,5.670707083,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-171,304,4.656075706,Middle Sacramento River,2017,SacR,JSATS,Chips,21.96584543
+SB2017-181,305,4.565712176,Middle Sacramento River,2017,SacR,JSATS,Chips,22.31827885
+SB2017-182,306,10.49706547,Middle Sacramento River,2017,SacR,JSATS,Chips,22.31827885
+Tisdale2013-022,787,7.254569907,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,18.83333333
+Tisdale2013-063,788,4.579690966,Middle Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,18.94444444
+Tisdale2013-067,789,6.9275993,Middle Sacramento River,2013,CenDel,JSATS,Ben.Ant,18.94444444
+Tisdale2013-175,790,7.131168084,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,16.38888889
+Tisdale2013-179,791,9.862814769,Middle Sacramento River,2013,SacRSlough,JSATS,Ben.Dec,16.38888889
+Tisdale2013-180,792,9.253190301,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,16.38888889
+Tisdale2013-182,793,5.86446316,Middle Sacramento River,2013,SacR,JSATS,Ben.Dec,16.38888889
+WR2013-034,307,48.03982366,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,8.870255
+WR2013-050,308,45.88465509,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,8.870255
+WR2013-066,309,42.93959832,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,8.870255
+WR2013-093,310,49.95445392,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,8.870255
+WR2013-147,311,45.50636614,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,8.870255
+WR2013-148,312,49.95033402,Upper Sacramento River,2013,SacR,JSATS,Ben.Dec,8.870255
+WR2014-010,313,24.56435801,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-030,314,25.93314842,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-042,315,28.35491618,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-052,316,23.03321799,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-058,317,18.75196935,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-066,318,22.53691984,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-075,319,24.25483727,Upper Sacramento River,2014,SacR,JSATS,Ben.Ant,9.0200615
+WR2014-085,320,24.77245828,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-105,321,24.60995455,Upper Sacramento River,2014,SacR,JSATS,Ben.Ant,9.0200615
+WR2014-109,322,24.81045928,Upper Sacramento River,2014,SacRSlough,JSATS,Ben.Dec,9.0200615
+WR2014-155,323,24.81673125,Upper Sacramento River,2014,SacRSlough,JSATS,Ben.Dec,9.0200615
+WR2014-176,324,23.54107261,Upper Sacramento River,2014,SacRSlough,JSATS,Ben.Dec,9.0200615
+WR2014-185,325,24.60699268,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-186,326,25.57515045,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-193,327,25.52407838,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-213,328,22.64045523,Upper Sacramento River,2014,SacR,JSATS,Ben.Ant,9.0200615
+WR2014-214,329,15.52069723,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-219,330,26.94971988,Upper Sacramento River,2014,CenDel,JSATS,Ben.Ant,9.0200615
+WR2014-225,331,22.80449401,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-241,332,23.22809745,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-253,333,27.76647963,Upper Sacramento River,2014,CenDel,JSATS,Ben.Ant,9.0200615
+WR2014-263,334,28.0994585,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-271,335,36.68659495,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-273,336,25.34401654,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-274,337,23.73929903,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-277,338,25.89610852,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-293,339,33.8679281,Upper Sacramento River,2014,SacRSlough,JSATS,Ben.Dec,9.0200615
+WR2014-297,340,27.99752547,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-330,341,28.4876674,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-337,342,30.42258776,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-338,343,25.05917665,Upper Sacramento River,2014,SacRSlough,JSATS,Ben.Dec,9.0200615
+WR2014-340,344,27.3282322,Upper Sacramento River,2014,SacR,JSATS,Ben.Dec,9.0200615
+WR2014-344,345,25.26911247,Upper Sacramento River,2014,SacRSlough,JSATS,Ben.Dec,9.0200615
+WR2014-353,346,24.31099988,Upper Sacramento River,2014,SacRSlough,JSATS,Ben.Dec,9.0200615
+WR2015-006,347,24.53904499,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-011,348,9.961741672,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-014,349,9.943083623,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-034,350,11.47529064,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-035,351,8.796311076,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-043,352,10.99075986,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-053,353,18.27185395,Upper Sacramento River,2015,CenDel,JSATS,Ben.Dec,10.45266
+WR2015-064,354,12.59863677,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-065,355,22.35232024,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-072,356,9.368876985,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-078,357,12.37713271,Upper Sacramento River,2015,CenDel,JSATS,Ben.Ant,10.45266
+WR2015-084,358,33.58702672,Upper Sacramento River,2015,CenDel,JSATS,Ben.Dec,10.45266
+WR2015-105,359,16.75263777,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-116,360,34.23625352,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-128,361,8.858917865,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-138,362,18.01018707,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-160,363,12.06936024,Upper Sacramento River,2015,SacR,JSATS,Ben.Ant,10.45266
+WR2015-164,364,9.491509537,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-166,365,11.03212255,Upper Sacramento River,2015,SacR,JSATS,Ben.Ant,10.45266
+WR2015-176,366,18.23089021,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-177,367,16.71246753,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-189,368,16.71835042,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-197,369,32.40689443,Upper Sacramento River,2015,CenDel,JSATS,Ben.Ant,10.45266
+WR2015-217,370,15.3359773,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.45266
+WR2015-240,371,9.307481534,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-247,372,17.39904079,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.45266
+WR2015-253,373,12.62054699,Upper Sacramento River,2015,CenDel,JSATS,Ben.Ant,10.458633
+WR2015-254,374,7.404812645,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-255,375,19.95364365,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-270,376,11.03871003,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-275,377,20.38097476,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-281,378,9.469506047,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-283,379,12.21482334,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-287,380,12.10071212,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-289,381,6.84325614,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-292,382,30.99971922,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-303,383,10.30010657,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-306,384,21.42469094,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-313,385,7.979953148,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-315,386,11.02748673,Upper Sacramento River,2015,CenDel,JSATS,Ben.Ant,10.458633
+WR2015-316,387,18.37309439,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-325,388,24.61007905,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-327,389,9.038431933,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-335,390,25.92441942,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-336,391,8.725203964,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-341,392,23.9436703,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-344,393,17.32441499,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-345,394,10.09250107,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-349,395,9.209130104,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-356,396,9.506010411,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-357,397,12.55912963,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-362,398,6.875768854,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-375,399,8.498994884,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-378,400,20.4158503,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-380,401,8.991927824,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-382,402,10.00655123,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-383,403,17.08776278,Upper Sacramento River,2015,SacR,JSATS,Ben.Ant,10.458633
+WR2015-386,404,22.11792021,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-390,405,16.27609782,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-394,406,14.14069006,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-405,407,20.37856053,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-427,408,14.24819658,Upper Sacramento River,2015,CenDel,JSATS,Ben.Ant,10.458633
+WR2015-429,409,20.33392913,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-434,410,16.02900153,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-435,411,11.04891834,Upper Sacramento River,2015,SacR,JSATS,Ben.Ant,10.458633
+WR2015-440,412,14.96221609,Upper Sacramento River,2015,CenDel,JSATS,Ben.Ant,10.458633
+WR2015-443,413,14.42915046,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-447,414,10.367913,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-456,415,8.214581076,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-460,416,32.00801689,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-466,417,11.57240792,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-467,418,18.78839504,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-483,419,9.988933848,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-487,420,9.523806221,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-491,421,6.847516661,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-492,422,6.401188808,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-493,423,7.366954149,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-496,424,10.48263529,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-497,425,9.017005561,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-513,426,18.31152741,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Ant,10.458633
+WR2015-518,427,11.91380785,Upper Sacramento River,2015,CenDel,JSATS,Ben.Ant,10.458633
+WR2015-519,428,7.331559728,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-523,429,7.920758252,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-526,430,7.495464873,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-528,431,20.44834716,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-538,432,11.88054305,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-545,433,8.97861375,Upper Sacramento River,2015,SacRSlough,JSATS,Ben.Dec,10.458633
+WR2015-546,434,7.417224184,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2015-568,435,15.71011278,Upper Sacramento River,2015,SacR,JSATS,Ben.Dec,10.458633
+WR2016-002,436,12.89385612,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-007,437,17.9525731,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-015,438,20.11609104,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-021,439,33.57211668,Upper Sacramento River,2016,CenDel,JSATS,Chips,8.765708
+WR2016-033,440,19.56277359,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-041,441,11.84772933,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-051,442,23.22471269,Upper Sacramento River,2016,CenDel,JSATS,Chips,8.765708
+WR2016-055,443,25.8748241,Upper Sacramento River,2016,CenDel,JSATS,Chips,8.765708
+WR2016-059,444,18.08858666,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-080,445,12.85001194,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-083,446,19.63044753,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-086,447,20.68817431,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-092,448,21.19483815,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-095,449,27.90489753,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-098,450,33.61101821,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-100,451,20.08087676,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-103,452,12.73486006,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-116,453,26.83018565,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-119,454,11.80985123,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-122,455,12.7982814,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-126,456,20.06843272,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-131,457,11.82448123,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-134,458,23.18392491,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-136,459,11.77996427,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-139,460,26.34224897,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-157,461,19.14472218,Upper Sacramento River,2016,"SacRSlough, CenDel",JSATS,Chips,8.765708
+WR2016-166,462,19.09265506,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-173,463,12.8531306,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-175,464,17.01782012,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-183,465,10.77107984,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-185,466,21.14391411,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-186,467,19.05991965,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-191,468,12.91354986,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-194,469,9.769161991,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-205,470,18.00267161,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-212,471,10.848666,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-214,472,10.79282775,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-222,473,13.79423287,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-225,474,21.18545734,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-233,475,13.79832912,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-234,476,26.86456501,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-239,477,10.69706225,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-244,478,11.86833451,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-249,479,11.74587103,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-252,480,18.10535235,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-258,481,21.08977731,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-261,482,12.88076078,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-265,483,14.92021932,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-267,484,13.77964728,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-271,485,11.9090415,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-275,486,12.9205165,Upper Sacramento River,2016,SacR,JSATS,Chips,8.765708
+WR2016-277,487,20.09115815,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.765708
+WR2016-288,488,11.80422017,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-294,489,19.14262753,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-297,490,18.05806547,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-301,491,11.77458549,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-304,492,17.56743891,Upper Sacramento River,2016,CenDel,JSATS,Chips,8.838381
+WR2016-305,493,10.30310778,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-306,494,30.02194729,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-310,495,17.00252347,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-315,496,11.90030618,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-322,497,11.79603368,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-324,498,33.13521272,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-325,499,11.92197057,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-330,500,22.21380051,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-332,501,19.61705203,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-334,502,18.02841566,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-336,503,9.726179606,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-337,504,24.2565081,Upper Sacramento River,2016,CenDel,JSATS,Chips,8.838381
+WR2016-339,505,23.30944281,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-343,506,12.88721741,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-346,507,19.62218459,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-356,508,18.55371414,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-357,509,9.712650104,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-366,510,11.89450449,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-373,511,29.98911641,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-374,512,11.90266966,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-383,513,32.68104584,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-399,514,21.15210183,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-403,515,10.82162693,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-405,516,11.9087074,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-407,517,11.98000774,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-409,518,10.82386836,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-412,519,12.95818207,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-419,520,12.98554602,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-426,521,12.89946041,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-433,522,9.826973796,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-438,523,11.89645715,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-440,524,10.90497931,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-444,525,37.74289464,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-449,526,14.98885331,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-451,527,12.83708659,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-457,528,19.7017248,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-459,529,12.93083991,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-473,530,12.80158718,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-474,531,12.88425733,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-475,532,9.272276759,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-480,533,21.73912534,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-485,534,10.88220659,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-490,535,10.88516981,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-491,536,24.29060355,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-497,537,25.84909799,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-506,538,25.88403757,Upper Sacramento River,2016,"SacRSlough, CenDel",JSATS,Chips,8.838381
+WR2016-508,539,14.95353104,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-510,540,20.68266227,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-516,541,24.8016306,Upper Sacramento River,2016,SacRSlough,JSATS,Chips,8.838381
+WR2016-517,542,19.17539113,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-524,543,11.78678861,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-530,544,26.44360184,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-543,545,21.24043734,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-544,546,12.8894163,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-546,547,10.78701413,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-550,548,37.16771332,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-552,549,23.76544105,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-555,550,9.704999456,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-559,551,18.56236902,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-560,552,20.05973929,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2016-566,553,10.30236792,Upper Sacramento River,2016,SacR,JSATS,Chips,8.838381
+WR2017-001,554,45.36959049,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-003,555,44.73733769,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-004,556,44.3349666,Upper Sacramento River,2017,"SacRSlough, CenDel",JSATS,Chips,8.388186
+WR2017-006,557,45.71120042,Upper Sacramento River,2017,SacR,JSATS,Ben.Dec,8.388186
+WR2017-007,558,47.95890036,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-008,559,57.30007813,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-009,560,49.90848578,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-020,561,43.80756369,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-021,562,46.08138693,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-030,563,47.15949273,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-031,564,39.19271516,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-033,565,42.83395144,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-034,566,49.00796221,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-035,567,44.37654587,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-039,568,39.64072922,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-043,569,43.84351897,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-044,570,37.69794142,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-046,571,39.1643092,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-048,572,48.83671096,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-049,573,45.38804616,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-051,574,50.81583649,Upper Sacramento River,2017,SacR,JSATS,Ben.Dec,8.388186
+WR2017-052,575,45.79684506,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-054,576,36.42365325,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-057,577,44.96083252,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-062,578,20.06118808,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-064,579,40.29756869,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-065,580,37.67036403,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-067,581,58.87531441,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-069,582,44.84049363,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-072,583,53.66643331,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-077,584,40.73015313,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-078,585,44.97207006,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-079,586,29.81923454,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-080,587,43.30906347,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-082,588,40.14183909,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-085,589,46.93119037,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-087,590,37.19175272,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-090,591,47.01753438,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-091,592,42.29234024,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-092,593,39.28005516,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-095,594,39.14205301,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-096,595,15.81497681,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-097,596,46.79845453,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-098,597,51.00028229,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-100,598,37.6819662,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-101,599,13.03594337,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-102,600,48.44009074,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-103,601,45.84917066,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-106,602,53.65559233,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-109,603,38.70561501,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-111,604,47.80660802,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-112,605,41.71342714,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-113,606,41.69757874,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-117,607,46.87961669,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-118,608,53.59592171,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-119,609,53.36117617,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-121,610,48.90256108,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-123,611,46.82401942,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-126,612,41.76067869,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-133,613,45.83524419,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-134,614,56.10977828,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-137,615,44.82043087,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-142,616,52.572512,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-150,617,48.49434745,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-152,618,56.14608225,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-153,619,48.00529899,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-155,620,54.67493377,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-158,621,45.8929845,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-160,622,57.19416951,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-168,623,48.86895601,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-175,624,48.10615185,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-178,625,46.90433456,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-180,626,42.20588206,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-187,627,61.47704205,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-188,628,44.86196672,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-189,629,60.06333466,Upper Sacramento River,2017,Yolo,JSATS,Ben.Dec,8.388186
+WR2017-201,630,50.51728657,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-204,631,65.56940051,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-206,632,45.86667209,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-207,633,45.33478258,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-221,634,57.21497279,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-223,635,54.74262469,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-226,636,51.0923423,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-228,637,47.74498902,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-229,638,61.9149608,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-231,639,44.90067524,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-235,640,46.83849361,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-240,641,56.77202846,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-245,642,51.13232483,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-249,643,59.73346977,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-250,644,59.76822105,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-257,645,47.99098912,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-259,646,48.53784104,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-264,647,41.17198928,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-266,648,46.79373314,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-272,649,48.91876588,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-284,650,54.04405699,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-287,651,52.11992809,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-290,652,45.9324308,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-294,653,59.73926707,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-297,654,44.35621317,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-299,655,45.94352223,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-300,656,39.74123617,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-301,657,47.96147718,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-303,658,44.80302919,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-312,659,46.97716155,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-316,660,60.88426726,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-324,661,46.73135354,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-334,662,55.21295561,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-335,663,47.03982566,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-336,664,48.55015649,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-338,665,45.121743,Upper Sacramento River,2017,SacR,JSATS,Ben.Dec,8.388186
+WR2017-342,666,60.48511392,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-343,667,44.29430652,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-344,668,47.45467279,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-345,669,47.97421655,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-346,670,45.75506027,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-351,671,61.04116856,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-356,672,44.94159056,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-360,673,25.27950433,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-362,674,45.9120205,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-365,675,47.86689602,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-366,676,49.10286627,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-371,677,47.80059845,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-375,678,43.36230271,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-376,679,47.89487181,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-379,680,55.61567928,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-388,681,36.57930336,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-390,682,60.02351999,Upper Sacramento River,2017,Yolo,JSATS,Ben.Dec,8.388186
+WR2017-395,683,56.84968051,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-401,684,43.31921343,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-403,685,57.20829317,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-404,686,51.85558936,Upper Sacramento River,2017,SacRSlough,JSATS,Ben.Dec,8.388186
+WR2017-405,687,47.81457343,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-406,688,44.27993179,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-411,689,46.00731668,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-419,690,47.84646065,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-420,691,45.87079425,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-424,692,51.15248516,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-427,693,48.88221624,Upper Sacramento River,2017,Yolo,JSATS,Ben.Dec,8.388186
+WR2017-428,694,45.13473139,Upper Sacramento River,2017,Yolo,JSATS,Ben.Dec,8.388186
+WR2017-430,695,47.83303639,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-432,696,31.79067051,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-433,697,45.72884051,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-434,698,41.66776927,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-439,699,46.78597042,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-440,700,45.74382781,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-441,701,21.56943589,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-442,702,41.77781947,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-445,703,45.77407771,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-446,704,49.10234294,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-448,705,34.17224428,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-450,706,49.52565147,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-451,707,44.90017466,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-452,708,47.04324825,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-456,709,43.2558219,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-457,710,47.72358774,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-458,711,43.77112338,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-459,712,57.6409997,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-463,713,44.78864866,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-464,714,47.01066014,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-466,715,40.76057466,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-467,716,46.50161807,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-468,717,45.34336346,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-469,718,38.18721944,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-471,719,37.69183355,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-472,720,53.05903088,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-474,721,41.74987747,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-476,722,45.85045083,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-477,723,46.96216552,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-478,724,53.72961789,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-479,725,43.8683397,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-480,726,51.13031727,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-484,727,29.95648069,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-487,728,44.35548765,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-488,729,43.85960197,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-493,730,44.90085397,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-494,731,41.2538223,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-498,732,45.94527348,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-499,733,43.86006916,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-501,734,46.93303484,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-503,735,44.39322815,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-504,736,46.83074287,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-505,737,42.72179667,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-506,738,41.68400616,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-507,739,59.69362851,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-508,740,44.95062111,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Chips,8.388186
+WR2017-509,741,41.73147218,Upper Sacramento River,2017,SacR,JSATS,Ben.Dec,8.388186
+WR2017-511,742,41.25734537,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-512,743,44.78480118,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-515,744,45.32340391,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-517,745,58.65034627,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-519,746,44.9288244,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-520,747,51.67978838,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-524,748,51.62469314,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-525,749,44.30491125,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-532,750,45.95284723,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-535,751,38.11874986,Upper Sacramento River,2017,SacRSlough,JSATS,Chips,8.388186
+WR2017-536,752,55.28873788,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-537,753,55.72281244,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-538,754,47.96402259,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-539,755,46.62822407,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-540,756,44.91299708,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-542,757,43.79463834,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
+WR2017-545,758,22.20193597,Upper Sacramento River,2017,SacR,JSATS,Ben.Dec,8.388186
+WR2017-546,759,32.39709609,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-547,760,38.18314318,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-548,761,47.93611179,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-552,762,46.2316598,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-553,763,46.4672133,Upper Sacramento River,2017,SacR,JSATS,Ben.Dec,8.388186
+WR2017-555,764,46.79709214,Upper Sacramento River,2017,CenDel,JSATS,Chips,8.388186
+WR2017-562,765,46.22934435,Upper Sacramento River,2017,"Yolo, SacRSlough",JSATS,Ben.Dec,8.388186
+WR2017-565,766,56.78125693,Upper Sacramento River,2017,SacR,JSATS,Chips,8.388186
+WR2017-569,767,55.10531427,Upper Sacramento River,2017,Yolo,JSATS,Chips,8.388186
